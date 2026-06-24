@@ -1,3 +1,35 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "9388f9116e014b958abe90beb427faa9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "TTVH",
+        "Tên Bưu cục": "Trung Tâm Vận Hành",
+        "Họ và tên người sử dụng": "Cao Thành Trai",
+        "Mã HRM": "00098243",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTNV-TRAICT",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3420",
+        "Năm sản xuất": "",
+        "Serial Number": "77WTKG3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "942 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.14.102",
+        "MAC Address": "B4:45:06:27:96:DF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T12:34:09",
+      "updatedAt": "2026-06-24T12:34:09"
+    }
+  ]
 }
