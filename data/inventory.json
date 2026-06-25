@@ -1845,6 +1845,48 @@
       "attachments": [],
       "createdAt": "2026-06-25T08:08:31",
       "updatedAt": "2026-06-25T08:08:31"
+    },
+    {
+      "id": "0e0ce962215e46eb8337df0f6ba92e94",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842830",
+        "Tên Bưu cục": "BCVH Hòa Thành",
+        "Họ và tên người sử dụng": "Trần Trí Bảo",
+        "Mã HRM": "00057703",
+        "Bộ phận / Phòng ban": "NV Xử lý nghiệp vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BAORYO",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214B2",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.87",
+        "MAC Address": "10:B6:76:9E:20:45"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra GK420d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:11:49",
+      "updatedAt": "2026-06-25T08:11:49"
     }
   ]
 }
