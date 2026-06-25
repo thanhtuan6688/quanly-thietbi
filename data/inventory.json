@@ -123,6 +123,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T01:32:13",
       "updatedAt": "2026-06-25T01:32:13"
+    },
+    {
+      "id": "a0d5e327b5534346977b6ed4f6fc9309",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852420",
+        "Tên Bưu cục": "Bưu cục Vận Hành Khu Vực Bến Lức- Thủ Thừa",
+        "Họ và tên người sử dụng": "Phan Bùi Hưng",
+        "Mã HRM": "00108074",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCVHBENLUC-TBC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "F13N8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.81.165.95",
+        "MAC Address": "F4:8E:38:A5:49:D6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon121/122",
+          "serial": "NYMA009346"
+        }
+      ],
+      "createdAt": "2026-06-25T05:07:24",
+      "updatedAt": "2026-06-25T05:07:24"
     }
   ]
 }
