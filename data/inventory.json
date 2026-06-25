@@ -892,6 +892,37 @@
       ],
       "createdAt": "2026-06-25T07:22:26",
       "updatedAt": "2026-06-25T07:22:26"
+    },
+    {
+      "id": "658b51dc6ffd45d79c51efc30b0dc2bc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8545",
+        "Tên Xã": "Vĩnh Hưng",
+        "Mã Bưu cục": "855100",
+        "Tên Bưu cục": "Bưu điện Xã Vĩnh Hưng",
+        "Họ và tên người sử dụng": "Trương Thị Kim Cương",
+        "Mã HRM": "00044772",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-VHUNG-KIMCU",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3420",
+        "Năm sản xuất": "",
+        "Serial Number": "1KMMQG3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.152.211",
+        "MAC Address": "52:9E:E5:A5:56:2F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T07:23:46",
+      "updatedAt": "2026-06-25T07:23:46"
     }
   ]
 }
