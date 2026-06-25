@@ -61,6 +61,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T00:30:30",
       "updatedAt": "2026-06-25T00:30:30"
+    },
+    {
+      "id": "e30cb1be7a444a118279ba474487e44b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "BCGD P LONG AN",
+        "Họ và tên người sử dụng": "TRƯƠNG HOÀNG GIANG",
+        "Mã HRM": "00043997",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT-49",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0QS",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.49",
+        "MAC Address": "9C:2D:CD:29:6B:D3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T01:02:36",
+      "updatedAt": "2026-06-25T01:02:36"
     }
   ]
 }
