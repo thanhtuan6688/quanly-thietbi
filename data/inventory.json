@@ -1238,6 +1238,37 @@
       ],
       "createdAt": "2026-06-25T07:41:50",
       "updatedAt": "2026-06-25T07:41:50"
+    },
+    {
+      "id": "9c0279f008fc410a983555c3a1d9dc4a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8569",
+        "Tên Xã": "Bưu điện Phường Long An",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "Tân An",
+        "Họ và tên người sử dụng": "Ngô Thị Cẩm Nhung",
+        "Mã HRM": "00044024",
+        "Bộ phận / Phòng ban": "Bưu cục Tân An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT-TB",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z28N",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.34.200",
+        "MAC Address": "E8:80:88:75:F0:26"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T07:44:47",
+      "updatedAt": "2026-06-25T07:44:47"
     }
   ]
 }
