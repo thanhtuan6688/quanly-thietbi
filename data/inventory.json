@@ -744,6 +744,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T07:18:48",
       "updatedAt": "2026-06-25T07:18:48"
+    },
+    {
+      "id": "ed2714689c4748fd8cc2d134178dd3ec",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8562",
+        "Tên Xã": "Bưu điện xã Đức Lập",
+        "Mã Bưu cục": "853810",
+        "Tên Bưu cục": "Bưu điện VHX Mỹ Hạnh Bắc",
+        "Họ và tên người sử dụng": "Nguyễn Anh Quốc",
+        "Mã HRM": "00117536",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-AKTCO0J",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "83DB0J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.156.21",
+        "MAC Address": "48:4D:7E:B9:D6:41"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:20:40",
+      "updatedAt": "2026-06-25T07:20:40"
     }
   ]
 }
