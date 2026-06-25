@@ -2817,6 +2817,53 @@
       ],
       "createdAt": "2026-06-25T10:19:21",
       "updatedAt": "2026-06-25T10:19:21"
+    },
+    {
+      "id": "c1010fc0cec54116ba9dfd9b6a39db49",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "châu thành",
+        "Tên Xã": "châu thành",
+        "Mã Bưu cục": "842590",
+        "Tên Bưu cục": "châu thành",
+        "Họ và tên người sử dụng": "Phạm Thị Đang Phượng",
+        "Mã HRM": "00230710",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDCTH-BCP-14",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq 6200 Pro SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH218R0WC",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.14",
+        "MAC Address": "E8:39:35:5D:93:35"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZDesingner GK420d",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "HP LaserJet Professional M1132 MFP",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T10:41:31",
+      "updatedAt": "2026-06-25T10:41:31"
     }
   ]
 }
