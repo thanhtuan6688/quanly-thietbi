@@ -2864,6 +2864,37 @@
       ],
       "createdAt": "2026-06-25T10:41:31",
       "updatedAt": "2026-06-25T10:41:31"
+    },
+    {
+      "id": "089c02c4a3ae457787bd857b4d13a092",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852700",
+        "Tên Bưu cục": "BƯU ĐIỆN CẦN ĐƯỚC",
+        "Họ và tên người sử dụng": "PHAM THI MY NGAN",
+        "Mã HRM": "00098071",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-GD52",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z25C",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.45",
+        "MAC Address": "E8:80:88:75:EF:85"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T11:07:06",
+      "updatedAt": "2026-06-25T11:07:06"
     }
   ]
 }
