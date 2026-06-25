@@ -2349,6 +2349,43 @@
       ],
       "createdAt": "2026-06-25T08:36:07",
       "updatedAt": "2026-06-25T08:36:07"
+    },
+    {
+      "id": "0b3dbfd775cd49e39218e7640d910115",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8545",
+        "Tên Xã": "vĩnh hưng",
+        "Mã Bưu cục": "855180",
+        "Tên Bưu cục": "VHX vĩnh thuận",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nga",
+        "Mã HRM": "00044809",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-BDX-VTHUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "347 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "78:24:AF:8E:16:43"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HB LASERJEPROM203D",
+          "serial": "VNP4D00741"
+        }
+      ],
+      "createdAt": "2026-06-25T08:35:56",
+      "updatedAt": "2026-06-25T08:35:56"
     }
   ]
 }
