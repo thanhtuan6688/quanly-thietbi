@@ -1452,6 +1452,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T07:51:13",
       "updatedAt": "2026-06-25T07:51:13"
+    },
+    {
+      "id": "c4d7e8f3305943709e9e189ce640b43b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "BƯU ĐIỆN PHƯỜNG LONG AN",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "BƯU ĐIỆN TÂN AN",
+        "Họ và tên người sử dụng": "PHAN THỊ MỸ DUYÊN",
+        "Mã HRM": "00043995",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT-74",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1HM",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "251 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.71",
+        "MAC Address": "E8:80:88:A4:36:42"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HPM401D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:51:24",
+      "updatedAt": "2026-06-25T07:51:24"
     }
   ]
 }
