@@ -1814,6 +1814,37 @@
       ],
       "createdAt": "2026-06-25T08:04:35",
       "updatedAt": "2026-06-25T08:04:35"
+    },
+    {
+      "id": "b6395335ff184cfeb7717701e265a939",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852420",
+        "Tên Bưu cục": "BCVH KV Bến Lức- Thủ Thừa",
+        "Họ và tên người sử dụng": "Phan Bùi Hưng",
+        "Mã HRM": "00108074",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHBENLUC-PH06",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0RQ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.175.212",
+        "MAC Address": "E8:80:88:B8:AB:0D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T08:08:31",
+      "updatedAt": "2026-06-25T08:08:31"
     }
   ]
 }
