@@ -2539,6 +2539,37 @@
       ],
       "createdAt": "2026-06-25T09:04:43",
       "updatedAt": "2026-06-25T09:04:43"
+    },
+    {
+      "id": "42a4953e970a447c8252b1f06b26f088",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8571",
+        "Tên Bưu cục": "bưu điện xã tuyên bình",
+        "Họ và tên người sử dụng": "Lê Thị Cường",
+        "Mã HRM": "0044779",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TBINH-VHXVB",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9XRW8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "B8:85:84:B1:18:C5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T09:53:35",
+      "updatedAt": "2026-06-25T09:53:35"
     }
   ]
 }
