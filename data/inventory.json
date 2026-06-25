@@ -2895,6 +2895,53 @@
       "attachments": [],
       "createdAt": "2026-06-25T11:07:06",
       "updatedAt": "2026-06-25T11:07:06"
+    },
+    {
+      "id": "c52d90094a8b45c8a3bd12e572656aab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852700",
+        "Tên Bưu cục": "Bưu cục Cần Đước",
+        "Họ và tên người sử dụng": "Nguyễn Thị Minh Hoa",
+        "Mã HRM": "00220955",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-GD61",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z29J",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.118",
+        "MAC Address": "E8:80:88:7C:AF:4B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Cino",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T11:07:52",
+      "updatedAt": "2026-06-25T11:07:52"
     }
   ]
 }
