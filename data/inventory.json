@@ -2047,46 +2047,35 @@
       "updatedAt": "2026-06-25T08:24:48"
     },
     {
-      "id": "3c2fdbae55744895b92005b3eabd8fbd",
+      "id": "1d471979b8ba47deb16dedba3b86e7d0",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "842700",
-        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG LONG HOA",
-        "Họ và tên người sử dụng": "NGUYỄN NGỌC NHƯ",
-        "Mã HRM": "00278314",
-        "Bộ phận / Phòng ban": "GIAO DỊCH TRUNG TÂM",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "TN-BDHT-GDV-78",
-        "Loại máy": "Desktop",
-        "Hãng": "ASUS",
-        "Model": "System Product Name",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "System Serial Number",
-        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
-        "RAM": "7.8 GB",
-        "Ổ cứng": "240 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.73.22.78",
-        "MAC Address": "E8:9C:25:29:D9:A8"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "CANON L11121E",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "ZEBRA DS22",
-          "serial": "20216010550815"
-        }
-      ],
-      "createdAt": "2026-06-25T08:27:23",
-      "updatedAt": "2026-06-25T08:27:23"
+      "attachments": [],
+      "createdAt": "2026-06-25T08:27:25",
+      "updatedAt": "2026-06-25T08:27:25"
     }
   ]
 }
