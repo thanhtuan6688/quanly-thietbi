@@ -1170,6 +1170,37 @@
       ],
       "createdAt": "2026-06-25T07:35:25",
       "updatedAt": "2026-06-25T07:35:25"
+    },
+    {
+      "id": "80d7ee2c636346ebbcc66f5fc8880bb6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8545",
+        "Tên Xã": "Vĩnh Hưng",
+        "Mã Bưu cục": "855100",
+        "Tên Bưu cục": "Bưu điện Xã Vĩnh Hưng",
+        "Họ và tên người sử dụng": "Lê Thị Thúy Kiều",
+        "Mã HRM": "00044783",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-VHUNG-GD52",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6C549R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.152.52",
+        "MAC Address": "8C:EC:4B:89:9B:B2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T07:36:00",
+      "updatedAt": "2026-06-25T07:36:00"
     }
   ]
 }
