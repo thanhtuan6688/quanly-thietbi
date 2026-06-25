@@ -2076,6 +2076,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T08:27:25",
       "updatedAt": "2026-06-25T08:27:25"
+    },
+    {
+      "id": "c4b0e79902414d64a743595bb50b466b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BĐX Châu Thành",
+        "Tên Xã": "Châu Thành",
+        "Mã Bưu cục": "842400",
+        "Tên Bưu cục": "Châu Thành",
+        "Họ và tên người sử dụng": "Nguyễn Huỳnh Trúc Loan",
+        "Mã HRM": "00057116",
+        "Bộ phận / Phòng ban": "BĐX Châu Thành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-BLS7D1P",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214BT",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.18",
+        "MAC Address": "10:B6:76:9E:20:03"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T08:27:34",
+      "updatedAt": "2026-06-25T08:27:34"
     }
   ]
 }
