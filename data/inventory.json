@@ -1520,6 +1520,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T07:52:43",
       "updatedAt": "2026-06-25T07:52:43"
+    },
+    {
+      "id": "fb0af7b05da6474eb51283dd62af3efd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8562",
+        "Tên Xã": "Bưu điện xã Đức Lập",
+        "Mã Bưu cục": "853810",
+        "Tên Bưu cục": "Bưu điện VHX Mỹ Hạnh Bắc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Huỳnh Như",
+        "Mã HRM": "00214538",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-O2MJVBL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B3FS8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "B8:85:84:B1:2B:E0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T04:31:39",
+      "updatedAt": "2026-06-25T04:31:39"
     }
   ]
 }
