@@ -781,6 +781,43 @@
       ],
       "createdAt": "2026-06-25T07:20:40",
       "updatedAt": "2026-06-25T07:20:40"
+    },
+    {
+      "id": "8dc7c0ac44604e05b42ea4f4e353f7a7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ĐỨC HÒA",
+        "Tên Xã": "ĐỨC HÒA",
+        "Mã Bưu cục": "853950",
+        "Tên Bưu cục": "ĐỨC HÒA",
+        "Họ và tên người sử dụng": "LẠI NGUYỄN MINH THU HOÀNG THIỆN",
+        "Mã HRM": "00044226",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ ĐỨC HÒA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHO-GD31",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "C1LWMF3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.141.31",
+        "MAC Address": "70:B5:E8:62:4D:9D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "GK420t",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:20:53",
+      "updatedAt": "2026-06-25T07:20:53"
     }
   ]
 }
