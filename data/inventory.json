@@ -2107,6 +2107,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T08:27:34",
       "updatedAt": "2026-06-25T08:27:34"
+    },
+    {
+      "id": "a427e0a6b7ea485392b5b1de3cf85eef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8549",
+        "Tên Bưu cục": "Kiến Tường",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Phương",
+        "Mã HRM": "00044686",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTUONG-DIEU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE03423ZK",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.172.70",
+        "MAC Address": "9C:7B:EF:3B:30:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "LaserJet Pro 400 M401d"
+        }
+      ],
+      "createdAt": "2026-06-25T08:29:05",
+      "updatedAt": "2026-06-25T08:29:05"
     }
   ]
 }
