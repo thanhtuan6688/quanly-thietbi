@@ -965,6 +965,43 @@
       ],
       "createdAt": "2026-06-25T07:31:02",
       "updatedAt": "2026-06-25T07:31:02"
+    },
+    {
+      "id": "4f958d3cada543448e997f8fc7b3fe20",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8545",
+        "Tên Xã": "Vĩnh Hưng",
+        "Mã Bưu cục": "855100",
+        "Tên Bưu cục": "Bưu điện Xã Vĩnh Hưng",
+        "Họ và tên người sử dụng": "Trương Thị Kim Cương",
+        "Mã HRM": "00044772",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-UT3VJ3N",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "4789HY2",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.152.85",
+        "MAC Address": "E4:54:E8:9B:EA:A6"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HP LaserJet M203-M206",
+          "serial": "VNP4D02533"
+        }
+      ],
+      "createdAt": "2026-06-25T07:31:25",
+      "updatedAt": "2026-06-25T07:31:25"
     }
   ]
 }
