@@ -2607,6 +2607,48 @@
       ],
       "createdAt": "2026-06-25T09:56:45",
       "updatedAt": "2026-06-25T09:56:45"
+    },
+    {
+      "id": "b272deb12e65424fbf6a8d2735a4b6d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8571",
+        "Tên Bưu cục": "bưu điện xã tuyên bình",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ TƯỜNG VI",
+        "Mã HRM": "00274310",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-VH-CUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "40:8D:5C:C2:DC:77"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "LBP2900"
+        },
+        {
+          "type": "scanner",
+          "name": "HONEY WELL",
+          "serial": "001020389F7F"
+        }
+      ],
+      "createdAt": "2026-06-25T09:57:08",
+      "updatedAt": "2026-06-25T09:57:08"
     }
   ]
 }
