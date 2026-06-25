@@ -715,41 +715,35 @@
       "updatedAt": "2026-06-25T07:15:45"
     },
     {
-      "id": "b62799b7a4da44e9829f1a4296834467",
+      "id": "736f3cd72aee48a7ad163fa8d7e8e028",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "BĐX Châu Thành",
-        "Tên Xã": "Châu Thành",
-        "Mã Bưu cục": "842400",
-        "Tên Bưu cục": "Châu Thành",
-        "Họ và tên người sử dụng": "Phạm Thị Thu Trang",
-        "Mã HRM": "00057116",
-        "Bộ phận / Phòng ban": "BĐX Châu Thành",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "KHKD-TRANG",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "B0VKH62",
-        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "224 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
-        "Office": "Microsoft Office 64-bit Components 2016",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.73.22.15",
-        "MAC Address": "64:00:6A:01:E5:01"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "canon",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-25T07:18:45",
-      "updatedAt": "2026-06-25T07:18:45"
+      "attachments": [],
+      "createdAt": "2026-06-25T07:18:48",
+      "updatedAt": "2026-06-25T07:18:48"
     }
   ]
 }
