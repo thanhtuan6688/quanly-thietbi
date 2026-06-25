@@ -2570,6 +2570,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T09:53:35",
       "updatedAt": "2026-06-25T09:53:35"
+    },
+    {
+      "id": "5e2b4945062c45f999c7283a361d1dd0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "Bưu điện Phường Long An",
+        "Họ và tên người sử dụng": "Phan Thị Vũ Thanh",
+        "Mã HRM": "00044027",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại quầy",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT252",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0332HWK",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "313 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.81.34.252",
+        "MAC Address": "9C:7B:EF:3B:84:62"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T09:56:45",
+      "updatedAt": "2026-06-25T09:56:45"
     }
   ]
 }
