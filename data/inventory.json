@@ -1557,6 +1557,48 @@
       ],
       "createdAt": "2026-06-25T04:31:39",
       "updatedAt": "2026-06-25T04:31:39"
+    },
+    {
+      "id": "817289ecd2914e4a8ab2b688cc4aa7c7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "BCGD P LONG AN",
+        "Họ và tên người sử dụng": "TRƯƠNG HOÀNG GIANG",
+        "Mã HRM": "00043997",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT-25",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2020 @ 2.90GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.253",
+        "MAC Address": "74:D4:35:57:C3:77"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 151DN",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEWELL 1250G",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:56:41",
+      "updatedAt": "2026-06-25T07:56:41"
     }
   ]
 }
