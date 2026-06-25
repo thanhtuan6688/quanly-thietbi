@@ -2460,6 +2460,48 @@
       ],
       "createdAt": "2026-06-25T08:52:18",
       "updatedAt": "2026-06-25T08:52:18"
+    },
+    {
+      "id": "0d1773eca3c14e259a07e4160cb2d99c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842700",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG LONG HOA",
+        "Họ và tên người sử dụng": "ĐOÀN QUỐC TÂM",
+        "Mã HRM": "00057542",
+        "Bộ phận / Phòng ban": "GIAO DỊCH TRUNG TÂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FHIQSL1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "1XNTCK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "349 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.73.22.70",
+        "MAC Address": "50:9A:4C:11:09:AF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET PRO MFP M127fn",
+          "serial": "CNB9J7G3YK"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "YCA404"
+        }
+      ],
+      "createdAt": "2026-06-25T08:53:33",
+      "updatedAt": "2026-06-25T08:53:33"
     }
   ]
 }
