@@ -308,6 +308,48 @@
       ],
       "createdAt": "2026-06-25T05:32:34",
       "updatedAt": "2026-06-25T05:32:34"
+    },
+    {
+      "id": "ac36348694504c3d9cd0c2f503c62e76",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841970",
+        "Tên Bưu cục": "phát tân châu",
+        "Họ và tên người sử dụng": "lê hoài phong",
+        "Mã HRM": "0011953",
+        "Bộ phận / Phòng ban": "bcvh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "HG95TR2",
+        "CPU": "Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.234",
+        "MAC Address": "D8:9E:F3:9A:04:F9"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zd620",
+          "serial": "v84.20.102"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": "ds22"
+        }
+      ],
+      "createdAt": "2026-06-25T06:30:16",
+      "updatedAt": "2026-06-25T06:30:16"
     }
   ]
 }
