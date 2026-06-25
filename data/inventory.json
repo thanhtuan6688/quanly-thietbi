@@ -2423,6 +2423,43 @@
       ],
       "createdAt": "2026-06-25T08:50:42",
       "updatedAt": "2026-06-25T08:50:42"
+    },
+    {
+      "id": "b2feda9d45e840a79f45497f700a5a70",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855300",
+        "Tên Bưu cục": "Tân Hưng",
+        "Họ và tên người sử dụng": "Huỳnh Văn To",
+        "Mã HRM": "00114757",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-P4MLQD3",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.81.144.52",
+        "MAC Address": "90:2B:34:CE:41:3A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:52:18",
+      "updatedAt": "2026-06-25T08:52:18"
     }
   ]
 }
