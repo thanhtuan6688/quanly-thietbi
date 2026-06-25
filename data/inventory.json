@@ -629,6 +629,43 @@
       ],
       "createdAt": "2026-06-25T07:09:37",
       "updatedAt": "2026-06-25T07:09:37"
+    },
+    {
+      "id": "2ddca11a1f7e4aa4b897e9e43183367a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842590",
+        "Tên Bưu cục": "BCVH Châu Thành",
+        "Họ và tên người sử dụng": "Đinh Thị Kim Dung",
+        "Mã HRM": "00101509",
+        "Bộ phận / Phòng ban": "Phó BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-LANDKPU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214RC",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.24",
+        "MAC Address": "10:B6:76:9E:1F:AB"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "canon",
+          "serial": "F166500"
+        }
+      ],
+      "createdAt": "2026-06-25T07:11:41",
+      "updatedAt": "2026-06-25T07:11:41"
     }
   ]
 }
