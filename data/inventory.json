@@ -923,6 +923,48 @@
       "attachments": [],
       "createdAt": "2026-06-25T07:23:46",
       "updatedAt": "2026-06-25T07:23:46"
+    },
+    {
+      "id": "3cafa429fd584430926e9382666c8368",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8562",
+        "Tên Xã": "BƯU ĐIỆN XÃ ĐỨC LẬP",
+        "Mã Bưu cục": "853810",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX MỸ HẠNH BẮC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THOẠI MỸ",
+        "Mã HRM": "00116059",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-MHB15",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B06M8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "230 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.156.15",
+        "MAC Address": "B8:85:84:B0:FB:99"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:31:02",
+      "updatedAt": "2026-06-25T07:31:02"
     }
   ]
 }
