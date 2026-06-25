@@ -2275,6 +2275,43 @@
       ],
       "createdAt": "2026-06-25T08:33:56",
       "updatedAt": "2026-06-25T08:33:56"
+    },
+    {
+      "id": "5e0e2ee532c841ba8c62b7dd0d4e7901",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện phường Kiến Tường",
+        "Mã Bưu cục": "855600",
+        "Tên Bưu cục": "Bưu điện phường Kiến Tường",
+        "Họ và tên người sử dụng": "Nguyễn Văn Thanh",
+        "Mã HRM": "00044685",
+        "Bộ phận / Phòng ban": "quản lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTUONG-THAN",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3590",
+        "Năm sản xuất": "",
+        "Serial Number": "BSZRT43",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "332 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.9.4",
+        "MAC Address": "5C:3A:45:5F:7B:77"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP lazejet  P2035",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:35:07",
+      "updatedAt": "2026-06-25T08:35:07"
     }
   ]
 }
