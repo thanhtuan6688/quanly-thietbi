@@ -2649,6 +2649,48 @@
       ],
       "createdAt": "2026-06-25T09:57:08",
       "updatedAt": "2026-06-25T09:57:08"
+    },
+    {
+      "id": "a3eb79b944d44c329cf3f65835d92e65",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842700",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG LONG HOA",
+        "Họ và tên người sử dụng": "VÕ THỊ TỒN",
+        "Mã HRM": "00081633",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDHTH-KHL-TO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "D9ZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.36",
+        "MAC Address": "F8:BC:12:A4:AF:6A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T10:13:20",
+      "updatedAt": "2026-06-25T10:13:20"
     }
   ]
 }
