@@ -1049,6 +1049,53 @@
       ],
       "createdAt": "2026-06-25T07:32:28",
       "updatedAt": "2026-06-25T07:32:28"
+    },
+    {
+      "id": "8812338c3321457fbda0981831f577b4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8545",
+        "Tên Xã": "Vĩnh Hưng",
+        "Mã Bưu cục": "855100",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ VĨNH HƯNG",
+        "Họ và tên người sử dụng": "NGÔ THỊ TIỀN",
+        "Mã HRM": "00105972",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-VHUNG-CA9",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "9BB2LK3",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Home and Student 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.152.212",
+        "MAC Address": "C0:25:A5:82:4D:78"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:32:38",
+      "updatedAt": "2026-06-25T07:32:38"
     }
   ]
 }
