@@ -1887,6 +1887,43 @@
       ],
       "createdAt": "2026-06-25T08:11:49",
       "updatedAt": "2026-06-25T08:11:49"
+    },
+    {
+      "id": "31c1d7960e904737a73c90cff4ba5f1b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842830",
+        "Tên Bưu cục": "BCVH HÒA THÀNH",
+        "Họ và tên người sử dụng": "LÊ THANH DANH",
+        "Mã HRM": "00107705",
+        "Bộ phận / Phòng ban": "BƯU CỤC PHÁT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THEDANH-VAULT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 230",
+        "Năm sản xuất": "",
+        "Serial Number": "HKWR62S",
+        "CPU": "Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz",
+        "RAM": "4 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.76",
+        "MAC Address": "B8:AC:6F:C3:96:38"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "22127523406861"
+        }
+      ],
+      "createdAt": "2026-06-25T08:13:33",
+      "updatedAt": "2026-06-25T08:13:33"
     }
   ]
 }
