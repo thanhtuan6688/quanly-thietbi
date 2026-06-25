@@ -2144,6 +2144,53 @@
       ],
       "createdAt": "2026-06-25T08:29:05",
       "updatedAt": "2026-06-25T08:29:05"
+    },
+    {
+      "id": "a03f179443e144579e4547084f624193",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851870",
+        "Tên Bưu cục": "văn hóa xã Thanh Phú Long",
+        "Họ và tên người sử dụng": "Trần Thị Bé Quyền",
+        "Mã HRM": "00221246",
+        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-6EI46TF",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "5KGQ0D3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.95.133",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro M201 dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "cino",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:29:56",
+      "updatedAt": "2026-06-25T08:29:56"
     }
   ]
 }
