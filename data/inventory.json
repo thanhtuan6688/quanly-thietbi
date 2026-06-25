@@ -1002,6 +1002,53 @@
       ],
       "createdAt": "2026-06-25T07:31:25",
       "updatedAt": "2026-06-25T07:31:25"
+    },
+    {
+      "id": "cd8a41a3dca744278375bc6f1bca5ca1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8562",
+        "Tên Xã": "Bưu điện xã Đức Lập",
+        "Mã Bưu cục": "853810",
+        "Tên Bưu cục": "Bưu điện văn hóa xã Mỹ Hạnh Bắc",
+        "Họ và tên người sử dụng": "Nguyễn Đức Nhựt",
+        "Mã HRM": "00276202",
+        "Bộ phận / Phòng ban": "Nhân viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHOA-VHXMBH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6DL39R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.136",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:32:28",
+      "updatedAt": "2026-06-25T07:32:28"
     }
   ]
 }
