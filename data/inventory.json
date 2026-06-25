@@ -1337,6 +1337,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T07:48:02",
       "updatedAt": "2026-06-25T07:48:02"
+    },
+    {
+      "id": "036f1b0d1a49403f98cca135d1347de9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8569",
+        "Tên Xã": "BƯU ĐIỆN PHƯỜNG LONG AN",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "BƯU ĐIỆN TÂN AN",
+        "Họ và tên người sử dụng": "HUỲNH THỊ KIM PHƯỢNG",
+        "Mã HRM": "00044015",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI QUẦY",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CFT3RO3",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE03423Z1",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "249 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.34.92",
+        "MAC Address": "9C:7B:EF:3B:33:3E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HPM4001D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T07:48:34",
+      "updatedAt": "2026-06-25T07:48:34"
     }
   ]
 }
