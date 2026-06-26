@@ -8504,6 +8504,37 @@
       ],
       "createdAt": "2026-06-26T07:58:49",
       "updatedAt": "2026-06-26T07:58:49"
+    },
+    {
+      "id": "8ab3d501599b45029442d81c0c23cc3d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853100",
+        "Tên Bưu cục": "CẦN GIUỘC",
+        "Họ và tên người sử dụng": "TRƯƠNG THỊ NGỌC HIỆP",
+        "Mã HRM": "00218071",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "5,9 GB",
+        "Ổ cứng": "149 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "",
+        "IP Address": "10.81.147.25",
+        "MAC Address": "74:D4:35:B7:18:8A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:57:08",
+      "updatedAt": "2026-06-26T07:57:08"
     }
   ]
 }
