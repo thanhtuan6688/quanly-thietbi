@@ -11795,6 +11795,37 @@
       ],
       "createdAt": "2026-06-26T09:24:17",
       "updatedAt": "2026-06-26T09:24:17"
+    },
+    {
+      "id": "53a7c698f4dd47d9ba121ea92d05c5ae",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853950",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ ĐỨC HÒA",
+        "Họ và tên người sử dụng": "TRẦN THỊ THU HIỀN",
+        "Mã HRM": "00044173",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ ĐỨC HÒA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHOA-BC3HIE",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "H6DSRK2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.141.101",
+        "MAC Address": "50:9A:4C:13:B0:D2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T09:26:15",
+      "updatedAt": "2026-06-26T09:26:15"
     }
   ]
 }
