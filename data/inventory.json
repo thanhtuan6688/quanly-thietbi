@@ -5413,6 +5413,48 @@
       ],
       "createdAt": "2026-06-26T06:41:11",
       "updatedAt": "2026-06-26T06:41:11"
+    },
+    {
+      "id": "af6ec76410fc4275b506d616bbca969b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842320",
+        "Tên Bưu cục": "phát tân biên",
+        "Họ và tên người sử dụng": "lê hoài phong",
+        "Mã HRM": "0011953",
+        "Bộ phận / Phòng ban": "BCVH TÂN CHÂU-TÂN BIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-G3FQLQ2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214MF",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.215",
+        "MAC Address": "10:B6:76:9E:13:F7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZABRA",
+          "serial": "GK420d"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-26T06:41:19",
+      "updatedAt": "2026-06-26T06:41:19"
     }
   ]
 }
