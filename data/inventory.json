@@ -12088,6 +12088,43 @@
       ],
       "createdAt": "2026-06-26T09:55:29",
       "updatedAt": "2026-06-26T09:55:29"
+    },
+    {
+      "id": "454ff8b0d23143ad99640eab10ee4731",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH CS2",
+        "Họ và tên người sử dụng": "NGUYEN VAN DINH",
+        "Mã HRM": "00057122",
+        "Bộ phận / Phòng ban": "KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-KTVC-TUI2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011322Q",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.27",
+        "MAC Address": "38:22:E2:18:8D:07"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:57:29",
+      "updatedAt": "2026-06-26T09:57:29"
     }
   ]
 }
