@@ -8389,6 +8389,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:55:18",
       "updatedAt": "2026-06-26T07:55:18"
+    },
+    {
+      "id": "7132f97fd4cc49ee81d7b9488bc3ab28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "843490",
+        "Tên Bưu cục": "TRANG BANG",
+        "Họ và tên người sử dụng": "NGUYEN THANH TRUNG",
+        "Mã HRM": "00108906",
+        "Bộ phận / Phòng ban": "KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-AQDE05T",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214C8",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.169",
+        "MAC Address": "10:B6:76:9E:1F:F2"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:58:17",
+      "updatedAt": "2026-06-26T07:58:17"
     }
   ]
 }
