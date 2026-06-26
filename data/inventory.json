@@ -12690,6 +12690,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:54:52",
       "updatedAt": "2026-06-26T10:54:52"
+    },
+    {
+      "id": "f9d160194dfb48b2b2b96753d26f9743",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "Bưu điện xã Thạnh Hóa",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "Thạnh Hóa",
+        "Họ và tên người sử dụng": "Huỳnh Thị Kim Cương",
+        "Mã HRM": "00044642",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-CUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "SAMSUNG ELECTRONICS CO., LTD.",
+        "Model": "Samsung DeskTop System",
+        "Năm sản xuất": "",
+        "Serial Number": "HY2C98CD3A000P",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.150.13",
+        "MAC Address": "E8:03:9A:97:22:39"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T10:56:14",
+      "updatedAt": "2026-06-26T10:56:14"
     }
   ]
 }
