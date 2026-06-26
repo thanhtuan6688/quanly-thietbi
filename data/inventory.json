@@ -11159,6 +11159,53 @@
       ],
       "createdAt": "2026-06-26T09:05:51",
       "updatedAt": "2026-06-26T09:05:51"
+    },
+    {
+      "id": "d670e20ec6ab4e5f89693637010c3d7b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH cơ sở 2",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Tín",
+        "Mã HRM": "00116211",
+        "Bộ phận / Phòng ban": "Khai Thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTKTVC-GIAON",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.151.26",
+        "MAC Address": "04:7C:16:D3:71:E4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "BROTHER",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:07:27",
+      "updatedAt": "2026-06-26T09:07:27"
     }
   ]
 }
