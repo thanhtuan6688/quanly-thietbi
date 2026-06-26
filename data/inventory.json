@@ -12523,6 +12523,43 @@
       ],
       "createdAt": "2026-06-26T10:11:23",
       "updatedAt": "2026-06-26T10:11:23"
+    },
+    {
+      "id": "94bd0f053b104e46abd72b931b85c94a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8425",
+        "Tên Xã": "Bưu điện xã Tân Biên",
+        "Mã Bưu cục": "842200",
+        "Tên Bưu cục": "Bưu điện xã Tân Biên",
+        "Họ và tên người sử dụng": "Phạm Minh Tuấn",
+        "Mã HRM": "00071567",
+        "Bộ phận / Phòng ban": "Giám đốc Bưu điện xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TBN-GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "JFZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro Education 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.209",
+        "MAC Address": "F8:BC:12:A5:7E:F4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:22:26",
+      "updatedAt": "2026-06-26T10:22:26"
     }
   ]
 }
