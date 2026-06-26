@@ -12235,6 +12235,43 @@
       ],
       "createdAt": "2026-06-26T10:00:48",
       "updatedAt": "2026-06-26T10:00:48"
+    },
+    {
+      "id": "95b3a0150f804c0da974de4d063d0ab3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8560",
+        "Tên Xã": "BƯU ĐIỆN XÃ HẬU NGHĨA",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "BƯU CỤC HẬU NGHĨA",
+        "Họ và tên người sử dụng": "THÁI ANH TƯỜNG",
+        "Mã HRM": "00044192",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PC_40",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.143.40",
+        "MAC Address": "40:8D:5C:D1:3A:D5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:00:40",
+      "updatedAt": "2026-06-26T10:00:40"
     }
   ]
 }
