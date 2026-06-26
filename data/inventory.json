@@ -3879,6 +3879,37 @@
       ],
       "createdAt": "2026-06-26T02:28:18",
       "updatedAt": "2026-06-26T02:28:18"
+    },
+    {
+      "id": "cbe6675d747e4a4eacb7125566a0beab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "Bưu điện tỉnh Tây Ninh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Mai",
+        "Mã HRM": "00043792",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TCHC-MAINTK",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Symantec Endpoint Protection, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.14.66",
+        "MAC Address": "FC:AA:14:0D:E9:ED"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:20:19",
+      "updatedAt": "2026-06-26T02:20:19"
     }
   ]
 }
