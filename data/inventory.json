@@ -6478,6 +6478,37 @@
       ],
       "createdAt": "2026-06-26T07:11:31",
       "updatedAt": "2026-06-26T07:11:31"
+    },
+    {
+      "id": "de40e856424242938cd44054d210e656",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852300",
+        "Tên Bưu cục": "BẾN LỨC",
+        "Họ và tên người sử dụng": "NGUYỄN MINH TÍN",
+        "Mã HRM": "00043811",
+        "Bộ phận / Phòng ban": "BĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-BL-TKBD",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z130",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.165.109",
+        "MAC Address": "E8:80:88:B8:AC:A7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:12:03",
+      "updatedAt": "2026-06-26T07:12:03"
     }
   ]
 }
