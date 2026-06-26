@@ -5602,6 +5602,48 @@
       ],
       "createdAt": "2026-06-26T06:48:32",
       "updatedAt": "2026-06-26T06:48:32"
+    },
+    {
+      "id": "b36f181be3a74856a637ad0d4d8938ce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852420",
+        "Tên Bưu cục": "BCVH BẾN LỨC THỦ THỪA",
+        "Họ và tên người sử dụng": "Huỳnh Phi Long",
+        "Mã HRM": "00044859",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Bến Lức Thủ Thừa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTA-HAUPM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "4H8T7N2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.175.208",
+        "MAC Address": "8C:EC:4B:56:49:B4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASER JET PRO M203D",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:44:31",
+      "updatedAt": "2026-06-26T06:44:31"
     }
   ]
 }
