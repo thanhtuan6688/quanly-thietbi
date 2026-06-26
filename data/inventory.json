@@ -3052,6 +3052,48 @@
       ],
       "createdAt": "2026-06-26T00:20:09",
       "updatedAt": "2026-06-26T00:20:09"
+    },
+    {
+      "id": "472fff072b5849229cb07cd9c10d0d3a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BĐT Tây Ninh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Thắm",
+        "Mã HRM": "00057131",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 3300",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HP ScanJet Pro 3000 s3",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T00:37:48",
+      "updatedAt": "2026-06-26T00:37:48"
     }
   ]
 }
