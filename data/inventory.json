@@ -11023,6 +11023,37 @@
       ],
       "createdAt": "2026-06-26T09:04:20",
       "updatedAt": "2026-06-26T09:04:20"
+    },
+    {
+      "id": "ca9017aaf20a43caaa82969a06b8c6d2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853950",
+        "Tên Bưu cục": "Bưu Điện Xã Đức Hòa",
+        "Họ và tên người sử dụng": "Huỳnh Thị Tuyết Mai",
+        "Mã HRM": "00044196",
+        "Bộ phận / Phòng ban": "Bưu Điện Xã Đức Hòa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHOA-MAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Unidentified System",
+        "Năm sản xuất": "",
+        "Serial Number": "BKRG2K2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Symantec Endpoint Protection, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.141.100",
+        "MAC Address": "50:9A:4C:04:EF:C5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T09:04:39",
+      "updatedAt": "2026-06-26T09:04:39"
     }
   ]
 }
