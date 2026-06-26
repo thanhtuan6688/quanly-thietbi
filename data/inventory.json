@@ -8619,6 +8619,37 @@
       ],
       "createdAt": "2026-06-26T08:00:05",
       "updatedAt": "2026-06-26T08:00:05"
+    },
+    {
+      "id": "8bb20b3a659c4f23bc1755dae5f6a33b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Lê Hồng Tâm",
+        "Mã HRM": "00057273",
+        "Bộ phận / Phòng ban": "Tổ phó TGD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-7368SJB",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "1XTTCK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.73.22.36",
+        "MAC Address": "50:9A:4C:11:07:57"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:00:40",
+      "updatedAt": "2026-06-26T08:00:40"
     }
   ]
 }
