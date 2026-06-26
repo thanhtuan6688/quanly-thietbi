@@ -9464,35 +9464,35 @@
       "updatedAt": "2026-06-26T08:23:01"
     },
     {
-      "id": "25d3948eef4c4d8d93358d548211e0c4",
+      "id": "43561c216a3e43c280d89eba96e4b299",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "852810",
-        "Tên Bưu cục": "BƯU CỤC RẠCH KIẾN",
-        "Họ và tên người sử dụng": "BÙI THU HIỀN",
-        "Mã HRM": "00044260",
-        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAN-CD-RKIEN35",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "Vostro 3669",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "4HGM7N2",
-        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "225 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.81.146.35",
-        "MAC Address": "8C:EC:4B:56:4B:4C"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-26T08:24:25",
-      "updatedAt": "2026-06-26T08:24:25"
+      "createdAt": "2026-06-26T08:24:27",
+      "updatedAt": "2026-06-26T08:24:27"
     }
   ]
 }
