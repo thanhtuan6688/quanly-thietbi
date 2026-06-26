@@ -8838,6 +8838,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:01:00",
       "updatedAt": "2026-06-26T08:01:00"
+    },
+    {
+      "id": "a4c65078e0f5496c9ed3bdcc068e3f5d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Lê Hồng Tâm",
+        "Mã HRM": "00057273",
+        "Bộ phận / Phòng ban": "Tổ phó TGD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TNH-BDGD-GD-TRI",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i7-12700",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.43",
+        "MAC Address": "10:7C:61:4F:18:64"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:02:57",
+      "updatedAt": "2026-06-26T08:02:57"
     }
   ]
 }
