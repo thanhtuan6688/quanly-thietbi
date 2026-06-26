@@ -10834,6 +10834,43 @@
       ],
       "createdAt": "2026-06-26T09:00:04",
       "updatedAt": "2026-06-26T09:00:04"
+    },
+    {
+      "id": "7a12d8aaba114e8ebe2e7e2fe25a066a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BCP-TTKTVC",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Huy",
+        "Mã HRM": "00221466",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTKTVC-TBC-H",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G5 Small Form Factor PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE234C7F0",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.151.12",
+        "MAC Address": "5C:60:BA:32:C9:04"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:00:22",
+      "updatedAt": "2026-06-26T09:00:22"
     }
   ]
 }
