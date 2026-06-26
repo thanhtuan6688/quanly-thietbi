@@ -10435,6 +10435,48 @@
       ],
       "createdAt": "2026-06-26T08:52:25",
       "updatedAt": "2026-06-26T08:52:25"
+    },
+    {
+      "id": "aff6980ba7764357b40a31ae3415e1d7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855600",
+        "Tên Bưu cục": "Bưu điện phường Kiến Tường",
+        "Họ và tên người sử dụng": "Dùng chung",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KT-THUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "4HXK7N2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.172.82",
+        "MAC Address": "8C:EC:4B:56:4F:FC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:50:39",
+      "updatedAt": "2026-06-26T08:50:39"
     }
   ]
 }
