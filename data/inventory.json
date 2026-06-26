@@ -7763,6 +7763,48 @@
       ],
       "createdAt": "2026-06-26T07:37:49",
       "updatedAt": "2026-06-26T07:37:49"
+    },
+    {
+      "id": "dd52f6922d324efdb007f2e3490aa184",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Võ Phạm Thanh Thảo",
+        "Mã HRM": "00080957",
+        "Bộ phận / Phòng ban": "NVKD TĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDGD-GD-56",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G4 DM",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC92307SW",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.56",
+        "MAC Address": "80:E8:2C:10:90:16"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:37:47",
+      "updatedAt": "2026-06-26T07:37:47"
     }
   ]
 }
