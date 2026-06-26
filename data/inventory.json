@@ -9493,6 +9493,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:24:27",
       "updatedAt": "2026-06-26T08:24:27"
+    },
+    {
+      "id": "24fb5b5317984357a209700a08ea9fdc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853100",
+        "Tên Bưu cục": "Bd cần giuộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thùy Hương",
+        "Mã HRM": "00243394",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CFT3RO3",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE03423YG",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.81.147.212",
+        "MAC Address": "9C:7B:EF:3B:33:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:27:02",
+      "updatedAt": "2026-06-26T08:27:02"
     }
   ]
 }
