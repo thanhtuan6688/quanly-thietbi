@@ -11978,6 +11978,43 @@
       ],
       "createdAt": "2026-06-26T09:50:39",
       "updatedAt": "2026-06-26T09:50:39"
+    },
+    {
+      "id": "690b2874051249e289c5f8b40a52268d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH CS2",
+        "Họ và tên người sử dụng": "NGUYEN MINH TRUONG",
+        "Mã HRM": "00057135",
+        "Bộ phận / Phòng ban": "KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTKTVC-TBC-T",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3030 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "BFK3HD2",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.151.17",
+        "MAC Address": "F4:8E:38:7F:3E:79"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:52:10",
+      "updatedAt": "2026-06-26T09:52:10"
     }
   ]
 }
