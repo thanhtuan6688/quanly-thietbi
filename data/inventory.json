@@ -5760,6 +5760,43 @@
       ],
       "createdAt": "2026-06-26T06:46:55",
       "updatedAt": "2026-06-26T06:46:55"
+    },
+    {
+      "id": "1084e42034e94b6c8a20eca08a380c2a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "008555",
+        "Tên Xã": "BƯU ĐIỆN XÃ TÂN THẠNH",
+        "Mã Bưu cục": "854600",
+        "Tên Bưu cục": "BƯU ĐIỆN TÂN THẠNH",
+        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Mã HRM": "00044611",
+        "Bộ phận / Phòng ban": "BỘ PHẬN GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-1T99M61",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0RA",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.148.205",
+        "MAC Address": "E8:80:88:B4:51:1F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HL-2321D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:46:42",
+      "updatedAt": "2026-06-26T06:46:42"
     }
   ]
 }
