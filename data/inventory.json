@@ -10587,6 +10587,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:55:12",
       "updatedAt": "2026-06-26T08:55:12"
+    },
+    {
+      "id": "5635fad9637c42a5ba10b19bc0637a6c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841350",
+        "Tên Bưu cục": "BCVH TÂY NINH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ TỐ UYÊN",
+        "Mã HRM": "00057723",
+        "Bộ phận / Phòng ban": "KHL TÂY NINH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDTP-KHL-UYE",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.14.34",
+        "MAC Address": "D8:43:AE:6C:75:BC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": "NMYA117168"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL-1452G",
+          "serial": "17072B0A0A"
+        }
+      ],
+      "createdAt": "2026-06-26T08:57:52",
+      "updatedAt": "2026-06-26T08:57:52"
     }
   ]
 }
