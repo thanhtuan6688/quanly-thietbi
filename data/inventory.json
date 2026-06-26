@@ -7216,6 +7216,37 @@
       ],
       "createdAt": "2026-06-26T07:25:29",
       "updatedAt": "2026-06-26T07:25:29"
+    },
+    {
+      "id": "44cd261ec0c94db8aba59a63d273a4fd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "842900",
+        "Tên Xã": "Bến Cầu",
+        "Mã Bưu cục": "8435",
+        "Tên Bưu cục": "Giao dịch Bến Cầu",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hà",
+        "Mã HRM": "00057172",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDBCU-GV-130",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProOne 400 G4 20.0-in NT AiO",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG915BWCB",
+        "CPU": "Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.130",
+        "MAC Address": "C4:65:16:19:B4:27"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:25:23",
+      "updatedAt": "2026-06-26T07:25:23"
     }
   ]
 }
