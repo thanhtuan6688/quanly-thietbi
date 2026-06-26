@@ -9759,6 +9759,43 @@
       ],
       "createdAt": "2026-06-26T08:30:52",
       "updatedAt": "2026-06-26T08:30:52"
+    },
+    {
+      "id": "ab404843dbb944cf8ba2916d3cd1bb7e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "BƯU ĐIỆN XÃ PHƯỚC VĨNH TÂY",
+        "Mã Bưu cục": "853240",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỚC VĨNH TÂY",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ KIỀU OANH",
+        "Mã HRM": "00274515",
+        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CG-VHXPVTAY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6DZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.22",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "TOSHIBA e-STUDIO B/W PCL6 V4",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:30:37",
+      "updatedAt": "2026-06-26T08:30:37"
     }
   ]
 }
