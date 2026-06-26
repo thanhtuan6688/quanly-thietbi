@@ -12752,6 +12752,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:57:42",
       "updatedAt": "2026-06-26T10:57:42"
+    },
+    {
+      "id": "20f5388ab19f4d45aa7855dabdf4679e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "Bưu điện xã Thạnh Hóa",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "Thạnh Hóa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Bích Diễm",
+        "Mã HRM": "00084597",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-TKBD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W531H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.150.52",
+        "MAC Address": "48:4D:7E:DB:80:34"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP 121dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T11:04:36",
+      "updatedAt": "2026-06-26T11:04:36"
     }
   ]
 }
