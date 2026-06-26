@@ -9900,6 +9900,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:36:39",
       "updatedAt": "2026-06-26T08:36:39"
+    },
+    {
+      "id": "e4b0f135610c419685b49f36c0ca43c5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855600",
+        "Tên Bưu cục": "Bưu điện phường Kiếm Tường",
+        "Họ và tên người sử dụng": "Dùng chung tại Bưu cục giao dịch",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTUONG-DUON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "G0LWMF3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1156 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.81.172.24",
+        "MAC Address": "70:B5:E8:62:09:83"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro M201dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:36:33",
+      "updatedAt": "2026-06-26T08:36:33"
     }
   ]
 }
