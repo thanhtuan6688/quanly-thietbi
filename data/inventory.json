@@ -5681,6 +5681,48 @@
       ],
       "createdAt": "2026-06-26T06:44:54",
       "updatedAt": "2026-06-26T06:44:54"
+    },
+    {
+      "id": "cad0e0a4d81a4cbea04897d8e8c07602",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "852100",
+        "Tên Xã": "Tân Trụ",
+        "Mã Bưu cục": "852100",
+        "Tên Bưu cục": "BĐ Xã Tân Trụ",
+        "Họ và tên người sử dụng": "Lê Thị Lệ",
+        "Mã HRM": "00044505",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTRU-LE",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3490",
+        "Năm sản xuất": "",
+        "Serial Number": "3RGDX23",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.22",
+        "MAC Address": "4C:EB:BD:AF:4A:D9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Hp M203D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:45:59",
+      "updatedAt": "2026-06-26T06:45:59"
     }
   ]
 }
