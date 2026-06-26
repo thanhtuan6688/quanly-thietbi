@@ -3549,6 +3549,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:06:05",
       "updatedAt": "2026-06-26T02:06:05"
+    },
+    {
+      "id": "7b7df8a577204beab326fb41cf5bc23e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BƯU ĐIỆN TỈNH TÂY NINH",
+        "Họ và tên người sử dụng": "TRẦN THỊ THU THẢO",
+        "Mã HRM": "00057206",
+        "Bộ phận / Phòng ban": "PHÒNG TỔ CHỨC HÀNH CHÍNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TCHC-DIEMNTN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132V1",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.16.53",
+        "MAC Address": "38:22:E2:18:8A:43"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro MFP M130a",
+          "serial": "VNC5D02204"
+        }
+      ],
+      "createdAt": "2026-06-26T02:08:26",
+      "updatedAt": "2026-06-26T02:08:26"
     }
   ]
 }
