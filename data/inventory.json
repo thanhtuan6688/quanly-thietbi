@@ -9646,35 +9646,35 @@
       "updatedAt": "2026-06-26T08:29:39"
     },
     {
-      "id": "4d106c775aff4280bf93b7a9321f79d0",
+      "id": "7250cee728a944bab0514e13cc31b1a9",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "854935",
-        "Tên Bưu cục": "Bình Hòa Trung",
-        "Họ và tên người sử dụng": "Nguyễn Thị Kim Cương",
-        "Mã HRM": "00100112",
-        "Bộ phận / Phòng ban": "GĐX",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAPTOP-03NT1K4L",
-        "Loại máy": "Laptop",
-        "Hãng": "ASUSTeK COMPUTER INC.",
-        "Model": "VivoBook_ASUSLaptop X515EA_X515EA",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "M7N0CV06U268274",
-        "CPU": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft 365 - vi-vn",
-        "Antivirus": "Windows Defender",
-        "IP Address": "192.168.10.114",
-        "MAC Address": "14:85:7F:DA:67:E5"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-26T08:29:59",
-      "updatedAt": "2026-06-26T08:29:59"
+      "createdAt": "2026-06-26T08:30:01",
+      "updatedAt": "2026-06-26T08:30:01"
     }
   ]
 }
