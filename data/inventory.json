@@ -10519,6 +10519,43 @@
       ],
       "createdAt": "2026-06-26T08:53:33",
       "updatedAt": "2026-06-26T08:53:33"
+    },
+    {
+      "id": "10d543da53774dcca6dbb95f697d2436",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8500",
+        "Tên Xã": "XÃ BÌNH THÀNH",
+        "Mã Bưu cục": "854470",
+        "Tên Bưu cục": "XÃ TÂN HIỆP",
+        "Họ và tên người sử dụng": "BÙI CÔNG TÂM",
+        "Mã HRM": "00044683",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ TÂN HIỆP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-VHXTHI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B30R8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "230 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.109",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET PRO M201 DW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:54:48",
+      "updatedAt": "2026-06-26T08:54:48"
     }
   ]
 }
