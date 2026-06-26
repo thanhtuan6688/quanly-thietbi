@@ -11358,6 +11358,48 @@
       ],
       "createdAt": "2026-06-26T09:09:55",
       "updatedAt": "2026-06-26T09:09:55"
+    },
+    {
+      "id": "091a82f0f79c4b0e8be54a4e62f1cb73",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841350",
+        "Tên Bưu cục": "BCVH TÂY NINH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THANH TRÚC",
+        "Mã HRM": "00057156",
+        "Bộ phận / Phòng ban": "KHL TÂY NINH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDTPO-KHL-BA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3030 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "BG06HD2",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.73.14.13",
+        "MAC Address": "F4:8E:38:7E:F3:2D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "CANON LPB6230",
+          "serial": "NCBA170039"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "Z0E70N"
+        }
+      ],
+      "createdAt": "2026-06-26T09:10:58",
+      "updatedAt": "2026-06-26T09:10:58"
     }
   ]
 }
