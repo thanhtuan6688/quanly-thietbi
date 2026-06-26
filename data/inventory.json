@@ -6190,6 +6190,53 @@
       ],
       "createdAt": "2026-06-26T07:01:06",
       "updatedAt": "2026-06-26T07:01:06"
+    },
+    {
+      "id": "6ddb6305370b433dadcc8e5ede01f442",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "BƯU CỤC TÂN AN",
+        "Họ và tên người sử dụng": "HUỲNH THỊ NGỌC TUYỀN",
+        "Mã HRM": "00044021",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT-39",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Pro 3330 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH338RJ4Q",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "133 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.39",
+        "MAC Address": "74:46:A0:B1:75:DD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP 406DN",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL 1425G",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:01:51",
+      "updatedAt": "2026-06-26T07:01:51"
     }
   ]
 }
