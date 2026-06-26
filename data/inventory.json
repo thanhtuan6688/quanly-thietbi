@@ -4874,6 +4874,53 @@
       ],
       "createdAt": "2026-06-26T04:08:56",
       "updatedAt": "2026-06-26T04:08:56"
+    },
+    {
+      "id": "de34da0050604b0fb42145812ab7fb5b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8503",
+        "Tên Xã": "VHX TÂN TÂY",
+        "Mã Bưu cục": "854430",
+        "Tên Bưu cục": "VHX TÂN TÂY",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ MỌNG THÚY",
+        "Mã HRM": "00044661",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VHX TÂN TÂY",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-VHXTTA",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1K4",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "246 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.163",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "BIXOLON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra/ds2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T04:20:28",
+      "updatedAt": "2026-06-26T04:20:28"
     }
   ]
 }
