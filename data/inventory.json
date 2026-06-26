@@ -6750,6 +6750,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:18:38",
       "updatedAt": "2026-06-26T07:18:38"
+    },
+    {
+      "id": "ec6e5c425d584b23a60a36c9b6a0b3ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "84",
+        "Họ và tên người sử dụng": "NGUYỄN VĂN DỨT",
+        "Mã HRM": "00232622",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTKD-DUT",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 14 3430",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-1335U",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.165.80.141",
+        "MAC Address": "58:CD:C9:37:D2:E3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:19:16",
+      "updatedAt": "2026-06-26T07:19:16"
     }
   ]
 }
