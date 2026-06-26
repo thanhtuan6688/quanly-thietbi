@@ -13014,6 +13014,37 @@
       ],
       "createdAt": "2026-06-26T11:48:36",
       "updatedAt": "2026-06-26T11:48:36"
+    },
+    {
+      "id": "6a25df005da74f8fa9527c5ddd853ca6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Tân Hưng",
+        "Tên Xã": "Xã Tân Hưng",
+        "Mã Bưu cục": "855300",
+        "Tên Bưu cục": "Bưu Điện Xã Tân Hưng",
+        "Họ và tên người sử dụng": "Bùi Thị Thu Thảo",
+        "Mã HRM": "00080927",
+        "Bộ phận / Phòng ban": "giao dich",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THUNG-PHUON",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3580",
+        "Năm sản xuất": "",
+        "Serial Number": "BQYGJZ2",
+        "CPU": "Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "B0:68:E6:B9:FE:05"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T22:55:29",
+      "updatedAt": "2026-06-26T22:55:29"
     }
   ]
 }
