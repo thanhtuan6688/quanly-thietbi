@@ -12418,6 +12418,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:10:26",
       "updatedAt": "2026-06-26T10:10:26"
+    },
+    {
+      "id": "cbff554d0e88404a803bd91a2637fa9c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "Hậu Nghĩa",
+        "Họ và tên người sử dụng": "Phan Thị Đào",
+        "Mã HRM": "00044151",
+        "Bộ phận / Phòng ban": "GĐ BĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHOA-DAOPT",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3420",
+        "Năm sản xuất": "",
+        "Serial Number": "18SMQG3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+        "RAM": "7,7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "28:11:A8:56:EF:EB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T10:17:38",
+      "updatedAt": "2026-06-26T10:17:38"
     }
   ]
 }
