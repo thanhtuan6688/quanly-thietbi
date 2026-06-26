@@ -7387,6 +7387,37 @@
       ],
       "createdAt": "2026-06-26T07:30:12",
       "updatedAt": "2026-06-26T07:30:12"
+    },
+    {
+      "id": "feed111bd487445e81a7b6ef187fb5dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "Bưu điện tỉnh Tây Ninh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kiều Diễm",
+        "Mã HRM": "00034800",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KD-DIEM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "CGGQ0D3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.14.42",
+        "MAC Address": "70:B5:E8:57:70:49"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:30:25",
+      "updatedAt": "2026-06-26T07:30:25"
     }
   ]
 }
