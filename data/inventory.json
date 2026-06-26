@@ -4568,6 +4568,53 @@
       ],
       "createdAt": "2026-06-26T03:19:53",
       "updatedAt": "2026-06-26T03:19:53"
+    },
+    {
+      "id": "7be496ec27e5421b9aa4cf20e37cdf31",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "842400",
+        "Tên Xã": "châu  thành",
+        "Mã Bưu cục": "842420",
+        "Tên Bưu cục": "bc  thái bình",
+        "Họ và tên người sử dụng": "phan thị hằng",
+        "Mã HRM": "00112916",
+        "Bộ phận / Phòng ban": "nhân  viên kinh doanh tại quầy",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-CTH-TB-HANGP",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.134.2",
+        "MAC Address": "1C:1B:0D:21:D8:31"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "canon  lbp2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T03:22:14",
+      "updatedAt": "2026-06-26T03:22:14"
     }
   ]
 }
