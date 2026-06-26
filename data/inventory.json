@@ -11684,6 +11684,43 @@
       ],
       "createdAt": "2026-06-26T09:19:40",
       "updatedAt": "2026-06-26T09:19:40"
+    },
+    {
+      "id": "8ba24cb056054053bd4c6872975ad686",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841170",
+        "Tên Bưu cục": "BCP TAY  NINH",
+        "Họ và tên người sử dụng": "VÕ THỊ BÉ NGOAN",
+        "Mã HRM": "00083968",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TPO-BC3-CUASO2",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821140986",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Avast Antivirus",
+        "IP Address": "10.73.14.21",
+        "MAC Address": "50:AF:73:37:9A:AF"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "25105523702857"
+        }
+      ],
+      "createdAt": "2026-06-26T09:19:51",
+      "updatedAt": "2026-06-26T09:19:51"
     }
   ]
 }
