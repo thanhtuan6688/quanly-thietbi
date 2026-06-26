@@ -9571,6 +9571,48 @@
       ],
       "createdAt": "2026-06-26T08:27:08",
       "updatedAt": "2026-06-26T08:27:08"
+    },
+    {
+      "id": "358558f6c2374615a3e443992385d7b1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855205",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ TUYÊN BÌNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KIM LOAN",
+        "Mã HRM": "0004818",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-VHUNG-VHXTB",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1HP",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "E8:80:88:A4:2D:90"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO",
+          "serial": "M203D"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-26T08:28:42",
+      "updatedAt": "2026-06-26T08:28:42"
     }
   ]
 }
