@@ -9613,6 +9613,37 @@
       ],
       "createdAt": "2026-06-26T08:28:42",
       "updatedAt": "2026-06-26T08:28:42"
+    },
+    {
+      "id": "e0db79ac4c7c47ed91c49428a48c135a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Cần Giuộc",
+        "Mã Bưu cục": "853100",
+        "Tên Bưu cục": "Bưu điện Xã Cần Giuộc",
+        "Họ và tên người sử dụng": "Lê Thanh Hồng",
+        "Mã HRM": "00102130",
+        "Bộ phận / Phòng ban": "Nhân Viên Kinh Doanh BCCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CG-PGD",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 5437",
+        "Năm sản xuất": "",
+        "Serial Number": "J36J3Z1",
+        "CPU": "Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "AC:7B:A1:37:8C:C3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:29:39",
+      "updatedAt": "2026-06-26T08:29:39"
     }
   ]
 }
