@@ -3487,6 +3487,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T01:27:18",
       "updatedAt": "2026-06-26T01:27:18"
+    },
+    {
+      "id": "153ff82c889c46c998bc177b66089f5d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "84",
+        "Tên Xã": "TTVH- BDT Tây Ninh",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "TTVH- BDT Tây Ninh",
+        "Họ và tên người sử dụng": "Lê Thị Thấm",
+        "Mã HRM": "00057152",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-PPKTNV-THAML",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G5 Small Form Factor PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE234C7GW",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "703 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.16.4",
+        "MAC Address": "5C:60:BA:32:C9:CD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T01:34:20",
+      "updatedAt": "2026-06-26T01:34:20"
     }
   ]
 }
