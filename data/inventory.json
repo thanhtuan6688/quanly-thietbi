@@ -9524,6 +9524,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:27:02",
       "updatedAt": "2026-06-26T08:27:02"
+    },
+    {
+      "id": "57d145c429c44d73b7552353dae0fac8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852810",
+        "Tên Bưu cục": "BƯU CỤC RẠCH KIẾN",
+        "Họ và tên người sử dụng": "BÙI THU HIỀN",
+        "Mã HRM": "00044260",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-RKIEN35",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "4HGM7N2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.146.35",
+        "MAC Address": "8C:EC:4B:56:4B:4C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "1"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": "1"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-26T08:27:08",
+      "updatedAt": "2026-06-26T08:27:08"
     }
   ]
 }
