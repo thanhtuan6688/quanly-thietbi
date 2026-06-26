@@ -8112,6 +8112,43 @@
       ],
       "createdAt": "2026-06-26T07:47:22",
       "updatedAt": "2026-06-26T07:47:22"
+    },
+    {
+      "id": "7beb54f8fc5148d7ba81b7206676c1de",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "84",
+        "Tên Xã": "TTVH-BĐT",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "TTVH-BĐT",
+        "Họ và tên người sử dụng": "HÀ THỊ MỸ LINH",
+        "Mã HRM": "00057149",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-PPKTNV-LINHH",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.16.24",
+        "MAC Address": "D8:43:AE:1D:59:92"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO M203D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:47:40",
+      "updatedAt": "2026-06-26T07:47:40"
     }
   ]
 }
