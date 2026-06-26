@@ -3628,6 +3628,37 @@
       ],
       "createdAt": "2026-06-26T02:11:07",
       "updatedAt": "2026-06-26T02:11:07"
+    },
+    {
+      "id": "5d42a0dd93344a69973e3b560fad5ef4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "85000",
+        "Tên Bưu cục": "Bưu điện tỉnh Tây Ninh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thùy Linh",
+        "Mã HRM": "00043791",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TCHC-LINHNT",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-S2PV",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "688 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.14.70",
+        "MAC Address": "40:8D:5C:A2:96:CC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:15:38",
+      "updatedAt": "2026-06-26T02:15:38"
     }
   ]
 }
