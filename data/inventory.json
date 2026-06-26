@@ -7721,6 +7721,48 @@
       ],
       "createdAt": "2026-06-26T07:36:11",
       "updatedAt": "2026-06-26T07:36:11"
+    },
+    {
+      "id": "530cbb36c5624ae0b71c324cc64f02a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851800",
+        "Tên Bưu cục": "CHÂU THÀNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ XUÂN LAN",
+        "Mã HRM": "00044449",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CT-THU",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "B365M D2V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Kaspersky Anti-Virus, Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.153.195",
+        "MAC Address": "B4:2E:99:AB:C3:F6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser jet pro M203d",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "SCANJET PRO 3000S3",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:37:49",
+      "updatedAt": "2026-06-26T07:37:49"
     }
   ]
 }
