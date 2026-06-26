@@ -6936,46 +6936,35 @@
       "updatedAt": "2026-06-26T07:20:47"
     },
     {
-      "id": "17605caea6df4764a871488d6ade9665",
+      "id": "77b0328d4e5e44b1912deb9c429d78ed",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "841830",
-        "Tên Bưu cục": "BCVH DƯƠNG MINH CHÂU",
-        "Họ và tên người sử dụng": "VŨ THOA NHẬT HẠ",
-        "Mã HRM": "00267229",
-        "Bộ phận / Phòng ban": "PHÁT DƯƠNG MINH CHÂU",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-KNSDCAU",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC52214J4",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
         "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.73.22.103",
-        "MAC Address": "10:B6:76:9E:1E:D8"
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "photocopier",
-          "name": "CANON LPB6030/6040/6018L",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "ZEBRA DS22",
-          "serial": "18150523401017"
-        }
-      ],
-      "createdAt": "2026-06-26T07:20:56",
-      "updatedAt": "2026-06-26T07:20:56"
+      "attachments": [],
+      "createdAt": "2026-06-26T07:20:58",
+      "updatedAt": "2026-06-26T07:20:58"
     }
   ]
 }
