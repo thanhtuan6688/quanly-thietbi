@@ -7977,6 +7977,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:43:55",
       "updatedAt": "2026-06-26T07:43:55"
+    },
+    {
+      "id": "c253ae5dd2cf497da2b409905dd84591",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Phan Thị Kim Thoại",
+        "Mã HRM": "00114366",
+        "Bộ phận / Phòng ban": "NVKD TĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-GK87FNE",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC522147Q",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.38",
+        "MAC Address": "10:B6:76:9E:13:5E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:44:21",
+      "updatedAt": "2026-06-26T07:44:21"
     }
   ]
 }
