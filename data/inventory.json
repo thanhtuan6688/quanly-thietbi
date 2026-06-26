@@ -8280,6 +8280,53 @@
       ],
       "createdAt": "2026-06-26T07:54:36",
       "updatedAt": "2026-06-26T07:54:36"
+    },
+    {
+      "id": "50da63eef24144558383cdd3ef52cf49",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "843490",
+        "Tên Bưu cục": "Trang Bang",
+        "Họ và tên người sử dụng": "Trinh Minh Trien",
+        "Mã HRM": "00098968",
+        "Bộ phận / Phòng ban": "Khai Thac",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TBG-NVNV-181",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "HGD5TR2",
+        "CPU": "Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.168",
+        "MAC Address": "D8:9E:F3:97:8C:AE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:55:43",
+      "updatedAt": "2026-06-26T07:55:43"
     }
   ]
 }
