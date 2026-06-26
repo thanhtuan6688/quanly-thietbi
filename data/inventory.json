@@ -9210,6 +9210,37 @@
       ],
       "createdAt": "2026-06-26T08:09:12",
       "updatedAt": "2026-06-26T08:09:12"
+    },
+    {
+      "id": "5814b7b711c24de4b827742fb7f9269f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Võ Phạm Thanh Thảo",
+        "Mã HRM": "00080957",
+        "Bộ phận / Phòng ban": "NVKD TĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-GDU-GDTT-TBC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3264 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "8D7Y872",
+        "CPU": "Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.47",
+        "MAC Address": "50:9A:4C:30:D7:E2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:09:46",
+      "updatedAt": "2026-06-26T08:09:46"
     }
   ]
 }
