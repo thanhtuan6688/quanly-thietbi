@@ -11637,6 +11637,53 @@
       ],
       "createdAt": "2026-06-26T09:18:33",
       "updatedAt": "2026-06-26T09:18:33"
+    },
+    {
+      "id": "3a7296c81e2647e3844ec8a8fdb95d33",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH 2",
+        "Họ và tên người sử dụng": "nguyen minh nhat",
+        "Mã HRM": "00239622",
+        "Bộ phận / Phòng ban": "khai thac",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QFIE5VV",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214R2",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.35",
+        "MAC Address": "10:B6:76:9E:1F:B8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "BROTHER",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:19:40",
+      "updatedAt": "2026-06-26T09:19:40"
     }
   ]
 }
