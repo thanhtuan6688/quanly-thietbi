@@ -3800,6 +3800,48 @@
       ],
       "createdAt": "2026-06-26T02:22:19",
       "updatedAt": "2026-06-26T02:22:19"
+    },
+    {
+      "id": "ba7a27761b2c4648afe62f8ea12082f2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852300",
+        "Tên Bưu cục": "BẾN LỨC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ PHƯỢNG DUY",
+        "Mã HRM": "00044093",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-BL-GD48",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.165.48",
+        "MAC Address": "74:D4:35:B7:18:BC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJET M1132 MFP",
+          "serial": "CNB9B5KZ9"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "FUZZYSSCAN",
+          "serial": "C3241604"
+        }
+      ],
+      "createdAt": "2026-06-26T02:25:36",
+      "updatedAt": "2026-06-26T02:25:36"
     }
   ]
 }
