@@ -5975,6 +5975,37 @@
       ],
       "createdAt": "2026-06-26T06:50:00",
       "updatedAt": "2026-06-26T06:50:00"
+    },
+    {
+      "id": "bb9fda869fe945809aa204e402e71b1e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8555",
+        "Tên Bưu cục": "BC Tân Thanh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Mỹ Phượng",
+        "Mã HRM": "00044604",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-PHUONGK",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "JSHQ0D3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.19",
+        "MAC Address": "70:B5:E8:5A:C7:DF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T06:52:28",
+      "updatedAt": "2026-06-26T06:52:28"
     }
   ]
 }
