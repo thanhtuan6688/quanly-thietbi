@@ -11122,6 +11122,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:06:25",
       "updatedAt": "2026-06-26T09:06:25"
+    },
+    {
+      "id": "09ac014d8f3846e0b13d23491740e4ee",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8535",
+        "Tên Xã": "Tầm Vu",
+        "Mã Bưu cục": "851800",
+        "Tên Bưu cục": "Bưu Điện xã Tầm Vu",
+        "Họ và tên người sử dụng": "Hồ Mỹ Thanh",
+        "Mã HRM": "00044423",
+        "Bộ phận / Phòng ban": "Nhân viên Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CT-THANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3910",
+        "Năm sản xuất": "",
+        "Serial Number": "2KGWYR3",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.153.21",
+        "MAC Address": "C0:25:A5:CD:BB:5E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:05:51",
+      "updatedAt": "2026-06-26T09:05:51"
     }
   ]
 }
