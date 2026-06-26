@@ -12017,46 +12017,35 @@
       "updatedAt": "2026-06-26T09:52:10"
     },
     {
-      "id": "8cea60d422e84b91829ce92421f4d418",
+      "id": "2bac30c2800f47468855df0011cb6afd",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
-        "Tên Xã": "Tầm Vu",
-        "Mã Bưu cục": "851170",
-        "Tên Bưu cục": "BCVH Tân An (Tầm Vu)",
-        "Họ và tên người sử dụng": "Nguyễn Phương Quyên",
-        "Mã HRM": "00084768",
-        "Bộ phận / Phòng ban": "BCVH",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAN-CT-QUYEN1",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "Vostro 3669",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "4HYK7N2",
-        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "222 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.81.153.196",
-        "MAC Address": "8C:EC:4B:56:4F:7C"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP/LaserJet Pro 400 M401d",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "CINO",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-26T09:52:56",
-      "updatedAt": "2026-06-26T09:52:56"
+      "attachments": [],
+      "createdAt": "2026-06-26T09:52:58",
+      "updatedAt": "2026-06-26T09:52:58"
     }
   ]
 }
