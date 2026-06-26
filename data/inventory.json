@@ -8191,6 +8191,48 @@
       ],
       "createdAt": "2026-06-26T07:52:30",
       "updatedAt": "2026-06-26T07:52:30"
+    },
+    {
+      "id": "fe939a4657784e9c9974515d760291b6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "CẦN GIUỘC",
+        "Mã Bưu cục": "853280",
+        "Tên Bưu cục": "BCVH CẦN GIUỘC",
+        "Họ và tên người sử dụng": "TRƯƠNG CÔNG HẬU",
+        "Mã HRM": "00099900",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CGI-NHUONG2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "83BB0J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.147.33",
+        "MAC Address": "48:4D:7E:B9:D5:6C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:54:16",
+      "updatedAt": "2026-06-26T07:54:16"
     }
   ]
 }
