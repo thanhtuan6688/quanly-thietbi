@@ -9383,6 +9383,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:16:26",
       "updatedAt": "2026-06-26T08:16:26"
+    },
+    {
+      "id": "56de7e5cc84d4530a3e290bd2de9ec1f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855600",
+        "Tên Bưu cục": "Bưu điện phường Kiến Tường",
+        "Họ và tên người sử dụng": "Võ Yến Nhi",
+        "Mã HRM": "00258139",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTUONG-TUYE",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z2CD",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.172.201",
+        "MAC Address": "E8:80:88:C3:CC:AE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:22:08",
+      "updatedAt": "2026-06-26T08:22:08"
     }
   ]
 }
