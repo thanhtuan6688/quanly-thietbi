@@ -7878,6 +7878,43 @@
       ],
       "createdAt": "2026-06-26T07:40:54",
       "updatedAt": "2026-06-26T07:40:54"
+    },
+    {
+      "id": "2b22f61d206c40fd9698b68897ac565d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Lê Thị Anh Đào",
+        "Mã HRM": "00057274",
+        "Bộ phận / Phòng ban": "NVKD TĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GDU-GDICH61",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 200 Pro G4 22 All-in-One PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0111FZ2",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "932 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.73.22.61",
+        "MAC Address": "E8:D8:D1:55:9A:99"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:41:53",
+      "updatedAt": "2026-06-26T07:41:53"
     }
   ]
 }
