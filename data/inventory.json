@@ -6321,6 +6321,37 @@
       ],
       "createdAt": "2026-06-26T07:04:44",
       "updatedAt": "2026-06-26T07:04:44"
+    },
+    {
+      "id": "033651fb302b476ba8460a649d249428",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8555",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ TÂN THẠNH",
+        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Mã HRM": "00044611",
+        "Bộ phận / Phòng ban": "BỘ PHẬN GIAO DỊCH- TKBĐ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-TKBD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G5 MT Business PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE04123JY",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "1049 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.52",
+        "MAC Address": "80:E8:2C:F2:FD:AE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:08:17",
+      "updatedAt": "2026-06-26T07:08:17"
     }
   ]
 }
