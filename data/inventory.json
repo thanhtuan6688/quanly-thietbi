@@ -10913,6 +10913,43 @@
       ],
       "createdAt": "2026-06-26T09:00:37",
       "updatedAt": "2026-06-26T09:00:37"
+    },
+    {
+      "id": "d58547c47ef440c1a1953f902c6620e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851800",
+        "Tên Bưu cục": "TẦM VU",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ XUÂN LAN",
+        "Mã HRM": "00044449",
+        "Bộ phận / Phòng ban": "NVKD ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CT-THO54",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3910",
+        "Năm sản xuất": "",
+        "Serial Number": "7KGWYR3",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.153.54",
+        "MAC Address": "C0:25:A5:CD:BC:A6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET ENTERPRISE M406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:02:44",
+      "updatedAt": "2026-06-26T09:02:44"
     }
   ]
 }
