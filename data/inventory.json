@@ -8008,6 +8008,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:44:21",
       "updatedAt": "2026-06-26T07:44:21"
+    },
+    {
+      "id": "cb619f5e686941678442079d92102c32",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "843490",
+        "Tên Bưu cục": "BCVH TRẢNG BÀNG",
+        "Họ và tên người sử dụng": "NGUYỄN VĂN KHÁ",
+        "Mã HRM": "00044857",
+        "Bộ phận / Phòng ban": "TRUNG TÂM VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTVC-KHA",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3420",
+        "Năm sản xuất": "",
+        "Serial Number": "66SMQG3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.2.27",
+        "MAC Address": "4C:77:CB:03:75:82"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:45:15",
+      "updatedAt": "2026-06-26T07:45:15"
     }
   ]
 }
