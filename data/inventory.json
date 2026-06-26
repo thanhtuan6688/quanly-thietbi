@@ -8869,6 +8869,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:02:57",
       "updatedAt": "2026-06-26T08:02:57"
+    },
+    {
+      "id": "a826a5e61ca6485fb45a767beb7a22dd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853250",
+        "Tên Bưu cục": "BĐVHX TÂN KIM",
+        "Họ và tên người sử dụng": "LÂM THỊ HOÀNG OANH",
+        "Mã HRM": "00044395",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CGI-VHXTK",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132XL",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.157.32",
+        "MAC Address": "38:22:E2:18:91:1D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA-ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "FUZZYSCAN-A780",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:03:20",
+      "updatedAt": "2026-06-26T08:03:20"
     }
   ]
 }
