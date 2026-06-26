@@ -10750,6 +10750,48 @@
       ],
       "createdAt": "2026-06-26T08:59:16",
       "updatedAt": "2026-06-26T08:59:16"
+    },
+    {
+      "id": "475a2b3ab6904bc8a50c603905f96471",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8435",
+        "Tên Xã": "BƯU ĐIỆN XÃ BẾN CẦU",
+        "Mã Bưu cục": "842900",
+        "Tên Bưu cục": "BƯU CỤC XÃ BẾN CẦU",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THU HÀ",
+        "Mã HRM": "00057172",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDBCU-GD-132",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.122.40",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP6230DN",
+          "serial": "NP JA 140584"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:59:34",
+      "updatedAt": "2026-06-26T08:59:34"
     }
   ]
 }
