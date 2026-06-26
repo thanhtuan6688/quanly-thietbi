@@ -4804,6 +4804,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:40:38",
       "updatedAt": "2026-06-26T03:40:38"
+    },
+    {
+      "id": "b1a0c3b910fe47fe8b4f284f07eac7de",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "852700",
+        "Tên Bưu cục": "BC Cần Đước",
+        "Họ và tên người sử dụng": "PHẠM THỊ MỸ LINH",
+        "Mã HRM": "00044266",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MYLINH",
+        "Loại máy": "Laptop",
+        "Hãng": "LENOVO",
+        "Model": "81VV",
+        "Năm sản xuất": "",
+        "Serial Number": "MP1R5BHM",
+        "CPU": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "474 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.145.35",
+        "MAC Address": "58:FB:84:6A:7F:ED"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T03:41:46",
+      "updatedAt": "2026-06-26T03:41:46"
     }
   ]
 }
