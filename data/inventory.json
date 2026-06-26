@@ -8070,6 +8070,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:46:11",
       "updatedAt": "2026-06-26T07:46:11"
+    },
+    {
+      "id": "46f3258b1af34bfb88fbcff7ba00ef18",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Lê Thanh Trúc",
+        "Mã HRM": "00057328",
+        "Bộ phận / Phòng ban": "NVKD TĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZWF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.41",
+        "MAC Address": "64:00:6A:01:E6:4A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:47:22",
+      "updatedAt": "2026-06-26T07:47:22"
     }
   ]
 }
