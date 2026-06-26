@@ -6237,6 +6237,53 @@
       ],
       "createdAt": "2026-06-26T07:01:51",
       "updatedAt": "2026-06-26T07:01:51"
+    },
+    {
+      "id": "1df5eedf38574d7c9c1d63d17863145d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8555",
+        "Tên Xã": "BƯU ĐIỆN XÃ TÂN THẠNH",
+        "Mã Bưu cục": "854600",
+        "Tên Bưu cục": "BƯU CỤC TÂN THẠNH",
+        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Mã HRM": "00044611",
+        "Bộ phận / Phòng ban": "BỘ PHẬN GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTHANH-GD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0241KMD",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.31",
+        "MAC Address": "80:E8:2C:DA:8F:09"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:02:05",
+      "updatedAt": "2026-06-26T07:02:05"
     }
   ]
 }
