@@ -12314,6 +12314,37 @@
       ],
       "createdAt": "2026-06-26T10:04:22",
       "updatedAt": "2026-06-26T10:04:22"
+    },
+    {
+      "id": "408ec540375d4c7b8a5d453c52286397",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "53100",
+        "Tên Bưu cục": "CẦN GIUỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NHAN",
+        "Mã HRM": "00044338",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CG-NHAN66",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "21W2TF2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.147.66",
+        "MAC Address": "F4:8E:38:A3:8E:58"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T10:04:40",
+      "updatedAt": "2026-06-26T10:04:40"
     }
   ]
 }
