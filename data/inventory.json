@@ -3210,6 +3210,53 @@
       ],
       "createdAt": "2026-06-26T01:06:36",
       "updatedAt": "2026-06-26T01:06:36"
+    },
+    {
+      "id": "01db8b3d5a7d4aac88ee2afce346d27f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855300",
+        "Tên Bưu cục": "Tân Hưng",
+        "Họ và tên người sử dụng": "Huỳnh Văn To",
+        "Mã HRM": "00114757",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THUNG-BCGD",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0KZ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.144.43",
+        "MAC Address": "E8:80:88:B8:B3:B4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T01:05:15",
+      "updatedAt": "2026-06-26T01:05:15"
     }
   ]
 }
