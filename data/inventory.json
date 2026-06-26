@@ -8911,6 +8911,43 @@
       ],
       "createdAt": "2026-06-26T08:03:20",
       "updatedAt": "2026-06-26T08:03:20"
+    },
+    {
+      "id": "24c65bfff4d741fca4a17f62efd5a9cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8535",
+        "Tên Xã": "Bưu điện xã Tầm Vu",
+        "Mã Bưu cục": "852015",
+        "Tên Bưu cục": "Văn phòng BĐH Châu Thành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Huỳnh Trang",
+        "Mã HRM": "00044407",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-00DJUN1",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z261",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22621",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.17.3",
+        "MAC Address": "08:9D:F4:58:0C:41"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:08:17",
+      "updatedAt": "2026-06-26T08:08:17"
     }
   ]
 }
