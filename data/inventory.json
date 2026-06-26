@@ -11400,6 +11400,48 @@
       ],
       "createdAt": "2026-06-26T09:10:58",
       "updatedAt": "2026-06-26T09:10:58"
+    },
+    {
+      "id": "249189bba3f140e2a6050f81d328ba2d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853200",
+        "Tên Bưu cục": "BĐVHX TÂN TẬP",
+        "Họ và tên người sử dụng": "LÝ THỊ XÔ NA",
+        "Mã HRM": "00044385",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CG-VHXTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VWB1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "48:4D:7E:DB:82:3F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra GK420T",
+          "serial": "29J162002332"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Cino",
+          "serial": "C3241525"
+        }
+      ],
+      "createdAt": "2026-06-26T09:10:50",
+      "updatedAt": "2026-06-26T09:10:50"
     }
   ]
 }
