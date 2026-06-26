@@ -5723,6 +5723,43 @@
       ],
       "createdAt": "2026-06-26T06:45:59",
       "updatedAt": "2026-06-26T06:45:59"
+    },
+    {
+      "id": "cc5ee0ceb13e41a5b6ef78a6187a0968",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "852720",
+        "Tên Xã": "Tân Lân",
+        "Mã Bưu cục": "852720",
+        "Tên Bưu cục": "VHX Phước Đông",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Trúc",
+        "Mã HRM": "00044312",
+        "Bộ phận / Phòng ban": "VHX Phước Đông cũ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-VHXPDONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W591H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.94",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:46:55",
+      "updatedAt": "2026-06-26T06:46:55"
     }
   ]
 }
