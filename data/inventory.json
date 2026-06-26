@@ -11595,6 +11595,48 @@
       ],
       "createdAt": "2026-06-26T09:16:50",
       "updatedAt": "2026-06-26T09:16:50"
+    },
+    {
+      "id": "7279c0df01d54726a8588bc644e04c0a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841170",
+        "Tên Bưu cục": "BCVH Tan ninh",
+        "Họ và tên người sử dụng": "Nguyen hoang nam",
+        "Mã HRM": "00057660",
+        "Bộ phận / Phòng ban": "bcvh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DHVMPQQ",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214JX",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.40",
+        "MAC Address": "10:B6:76:9E:13:88"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP230DN",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:18:33",
+      "updatedAt": "2026-06-26T09:18:33"
     }
   ]
 }
