@@ -10713,6 +10713,43 @@
       ],
       "createdAt": "2026-06-26T08:59:15",
       "updatedAt": "2026-06-26T08:59:15"
+    },
+    {
+      "id": "5e55f1fb84264f93814d0c4f81c56d51",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853950",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ ĐỨC HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ TIẾNG",
+        "Mã HRM": "00044202",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ ĐỨC HÒA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHA50",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z29A",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.141.50",
+        "MAC Address": "E8:80:88:7C:AD:CC"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:59:16",
+      "updatedAt": "2026-06-26T08:59:16"
     }
   ]
 }
