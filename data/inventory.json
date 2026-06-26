@@ -6897,6 +6897,43 @@
       ],
       "createdAt": "2026-06-26T07:20:04",
       "updatedAt": "2026-06-26T07:20:04"
+    },
+    {
+      "id": "ac5508c3ea6e455cb1bb822896458c7b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Bưu điện xã  Châu thành",
+        "Tên Bưu cục": "Bưu điện xã Châu thành",
+        "Họ và tên người sử dụng": "Lương Kim Phượng",
+        "Mã HRM": "00057260",
+        "Bộ phận / Phòng ban": "Bưu điện xã Châu thành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDCTH-KETOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "932 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.7",
+        "MAC Address": "B4:2E:99:DA:64:79"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro MFP M127fn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:20:47",
+      "updatedAt": "2026-06-26T07:20:47"
     }
   ]
 }
