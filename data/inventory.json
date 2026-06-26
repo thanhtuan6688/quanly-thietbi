@@ -6284,6 +6284,43 @@
       ],
       "createdAt": "2026-06-26T07:02:05",
       "updatedAt": "2026-06-26T07:02:05"
+    },
+    {
+      "id": "c282c99defed49cab76f27dbb7bedc64",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8555",
+        "Tên Xã": "Xã Tân Thạnh",
+        "Mã Bưu cục": "854600",
+        "Tên Bưu cục": "Bưu điện xã Tân Thạnh",
+        "Họ và tên người sử dụng": "Lê Thị Khánh An",
+        "Mã HRM": "00044603",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TNH-TTHANH-KAN",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3590",
+        "Năm sản xuất": "",
+        "Serial Number": "5WCRT43",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.88.184",
+        "MAC Address": "5C:3A:45:34:1C:15"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 6030",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:04:44",
+      "updatedAt": "2026-06-26T07:04:44"
     }
   ]
 }
