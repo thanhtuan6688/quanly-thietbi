@@ -9712,6 +9712,53 @@
       ],
       "createdAt": "2026-06-26T08:30:19",
       "updatedAt": "2026-06-26T08:30:19"
+    },
+    {
+      "id": "a836fb1e3fc24d149f9d4244ac8d6ec7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "853310",
+        "Tên Xã": "VHX Long Thượng",
+        "Mã Bưu cục": "853310",
+        "Tên Bưu cục": "BĐ VHX Long Thượng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương",
+        "Mã HRM": "00117739",
+        "Bộ phận / Phòng ban": "Nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CGI-VHXLT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1HJ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.13",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon-L11121E",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra - ZD620",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "Zebra -DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:30:52",
+      "updatedAt": "2026-06-26T08:30:52"
     }
   ]
 }
