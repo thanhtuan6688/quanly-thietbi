@@ -3136,6 +3136,43 @@
       ],
       "createdAt": "2026-06-26T00:48:05",
       "updatedAt": "2026-06-26T00:48:05"
+    },
+    {
+      "id": "198ea7dacd6a45369e040b51a21cf2b1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BĐVHX BDuc",
+        "Tên Xã": "Bình Đức",
+        "Mã Bưu cục": "852530",
+        "Tên Bưu cục": "BĐVHXBDUC",
+        "Họ và tên người sử dụng": "Huỳnh Thanh Tú",
+        "Mã HRM": "00221631",
+        "Bộ phận / Phòng ban": "BD8VHX",
+        "Mã vật tư": "00221631",
+        "Tên máy (Hostname)": "LAN-BL-VHXBDUC",
+        "Loại máy": "Destop",
+        "Hãng": "DellInc",
+        "Model": "vostro3888",
+        "Năm sản xuất": "",
+        "Serial Number": "51LWMF3",
+        "CPU": "intel(R)Core(TM)i3-10100CPU@3.60GHz",
+        "RAM": "7.8",
+        "Ổ cứng": "226GB",
+        "Hệ điều hành": "Microsoft Windows11HomeSingle Language10026200",
+        "Office": "Microsoft Office Office64bit Components2010",
+        "Antivirus": "Windows Defender,FotiClientAntiVirus,Kaspersky EndpointSeurityforWindows",
+        "IP Address": "10.200.9573",
+        "MAC Address": "00.09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP sales:Support",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T00:56:51",
+      "updatedAt": "2026-06-26T00:56:51"
     }
   ]
 }
