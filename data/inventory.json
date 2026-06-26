@@ -10293,6 +10293,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:48:47",
       "updatedAt": "2026-06-26T08:48:47"
+    },
+    {
+      "id": "7a8f1efab7aa4bcca4462af53171f723",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "BC KTT - CS2",
+        "Họ và tên người sử dụng": "Đặng Thị Hồng Linh",
+        "Mã HRM": "00057653",
+        "Bộ phận / Phòng ban": "Bưu cục Khai Thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTKTVC-GDLIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.73.151.29",
+        "MAC Address": "D8:43:AE:B0:1D:E8"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Tên thiết bị: Máy quét mã vạch Zebra DS2208 Hãng - Model: Zebra Technologies – DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:49:36",
+      "updatedAt": "2026-06-26T08:49:36"
     }
   ]
 }
