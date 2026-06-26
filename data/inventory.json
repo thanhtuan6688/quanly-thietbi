@@ -6394,6 +6394,43 @@
       ],
       "createdAt": "2026-06-26T07:10:44",
       "updatedAt": "2026-06-26T07:10:44"
+    },
+    {
+      "id": "7c80f631a5c14f0583f241563bf4ce12",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8435",
+        "Tên Xã": "Xã Bến Cầu",
+        "Mã Bưu cục": "842900",
+        "Tên Bưu cục": "Bưu điện xã Bến Cầu",
+        "Họ và tên người sử dụng": "Trần Thị Bích Ngọc",
+        "Mã HRM": "00057175",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDBCU-KT-THU",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "702 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.141",
+        "MAC Address": "10:FF:E0:49:C1:E8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet P1102",
+          "serial": "VNF5R48492"
+        }
+      ],
+      "createdAt": "2026-06-26T07:11:15",
+      "updatedAt": "2026-06-26T07:11:15"
     }
   ]
 }
