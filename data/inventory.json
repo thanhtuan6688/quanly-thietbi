@@ -12486,6 +12486,43 @@
       ],
       "createdAt": "2026-06-26T10:16:39",
       "updatedAt": "2026-06-26T10:16:39"
+    },
+    {
+      "id": "cdf1d73654ca40af8298daee2d7b6213",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8560",
+        "Tên Xã": "HẬU NGHĨA",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "HẬU NGHĨA",
+        "Họ và tên người sử dụng": "TRẦN THỊ KIM PHƯỢNG",
+        "Mã HRM": "00215501",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-HNGHIA-KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821120797",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.143.102",
+        "MAC Address": "50:AF:73:37:78:3D"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:11:23",
+      "updatedAt": "2026-06-26T10:11:23"
     }
   ]
 }
