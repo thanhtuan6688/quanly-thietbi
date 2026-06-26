@@ -12789,6 +12789,48 @@
       ],
       "createdAt": "2026-06-26T11:04:36",
       "updatedAt": "2026-06-26T11:04:36"
+    },
+    {
+      "id": "efc84ce46a9a469092e2ee2527eb05bd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "THẠNH HÓA",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "THẠNH HÓA",
+        "Họ và tên người sử dụng": "ĐOÀN THỊ NGỌC BÍCH",
+        "Mã HRM": "00114340",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-NTOLUY",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z262",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.150.82",
+        "MAC Address": "E8:80:88:7C:AF:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "FUZZYSCAN",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T11:10:39",
+      "updatedAt": "2026-06-26T11:10:39"
     }
   ]
 }
