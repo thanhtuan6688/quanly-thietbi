@@ -8582,6 +8582,43 @@
       ],
       "createdAt": "2026-06-26T07:58:46",
       "updatedAt": "2026-06-26T07:58:46"
+    },
+    {
+      "id": "1d3cc2704c174286b10ace1f58f4537d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8500",
+        "Tên Xã": "XÃ BÌNH THÀNH",
+        "Mã Bưu cục": "854465",
+        "Tên Bưu cục": "THUẬN BÌNH",
+        "Họ và tên người sử dụng": "VÕ THỊ KIM SOA",
+        "Mã HRM": "00044669",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VĂN HÓA XÃ THUẬN BÌNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-E4T59TJ",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP ProBook 430 G6",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD91152GT",
+        "CPU": "Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.75",
+        "MAC Address": "D8:F2:CA:94:0C:91"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET PRO 400",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:00:05",
+      "updatedAt": "2026-06-26T08:00:05"
     }
   ]
 }
