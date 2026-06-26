@@ -3173,6 +3173,43 @@
       ],
       "createdAt": "2026-06-26T00:56:51",
       "updatedAt": "2026-06-26T00:56:51"
+    },
+    {
+      "id": "38becbc1fad84096893ca31575b8979d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855300",
+        "Tên Bưu cục": "Tân Hưng",
+        "Họ và tên người sử dụng": "Bùi Thị Thu Thảo",
+        "Mã HRM": "00080927",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THUNG-THAOB",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "4HRN7N2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.144.13",
+        "MAC Address": "8C:EC:4B:56:4B:56"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T01:06:36",
+      "updatedAt": "2026-06-26T01:06:36"
     }
   ]
 }
