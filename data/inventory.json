@@ -3983,6 +3983,43 @@
       ],
       "createdAt": "2026-06-26T02:39:25",
       "updatedAt": "2026-06-26T02:39:25"
+    },
+    {
+      "id": "a89d18ceae794d9fa7634af668a1a6aa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "852782",
+        "Tên Xã": "Tân Lân",
+        "Mã Bưu cục": "852782",
+        "Tên Bưu cục": "VHX Tân Lân",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hạnh",
+        "Mã HRM": "00044287",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QRC18BN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9Z7N8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.95.208",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro M203d",
+          "serial": "VNP4D01183"
+        }
+      ],
+      "createdAt": "2026-06-26T02:40:34",
+      "updatedAt": "2026-06-26T02:40:34"
     }
   ]
 }
