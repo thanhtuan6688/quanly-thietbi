@@ -6996,6 +6996,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:21:42",
       "updatedAt": "2026-06-26T07:21:42"
+    },
+    {
+      "id": "e8a70f5b1e494e7d829b3727655c2171",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841830",
+        "Tên Bưu cục": "bưu cục vận hành Dương Minh Châu",
+        "Họ và tên người sử dụng": "Lê Phương Nam",
+        "Mã HRM": "00113566",
+        "Bộ phận / Phòng ban": "phát Dương Minh Châu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-DMC-BCPNAM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BBLG862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.101",
+        "MAC Address": "64:00:6A:09:4D:59"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "máy in HP Laser Jet Pro M203d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:22:43",
+      "updatedAt": "2026-06-26T07:22:43"
     }
   ]
 }
