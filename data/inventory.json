@@ -9315,6 +9315,43 @@
       ],
       "createdAt": "2026-06-26T08:11:05",
       "updatedAt": "2026-06-26T08:11:05"
+    },
+    {
+      "id": "93b1f4e266234e5b8716590049623aa3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8567",
+        "Tên Bưu cục": "Bưu điện xã Tân Trụ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Bích Hồng",
+        "Mã HRM": "00044506",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTRU-HONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC56TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.149.208",
+        "MAC Address": "B8:85:84:A8:E3:28"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:15:59",
+      "updatedAt": "2026-06-26T08:15:59"
     }
   ]
 }
