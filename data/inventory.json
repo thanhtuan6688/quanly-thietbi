@@ -10053,6 +10053,48 @@
       ],
       "createdAt": "2026-06-26T08:43:15",
       "updatedAt": "2026-06-26T08:43:15"
+    },
+    {
+      "id": "e7c90dd1682f45fdb42a69dfe2e98a08",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855600",
+        "Tên Bưu cục": "Bưu điện phường Kiến Tường",
+        "Họ và tên người sử dụng": "Dùng chung tại Bưu cục giao dịch",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTUONG-HUON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6C279R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.172.21",
+        "MAC Address": "8C:EC:4B:D4:D8:0D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Nerverstop Laser 1000W",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:44:11",
+      "updatedAt": "2026-06-26T08:44:11"
     }
   ]
 }
