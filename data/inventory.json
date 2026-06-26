@@ -11870,46 +11870,35 @@
       "updatedAt": "2026-06-26T09:27:50"
     },
     {
-      "id": "5d43c8dd4de846b49d547eef43a6f842",
+      "id": "1a0119dfac954a749cab440c57f56cc8",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "855600",
-        "Tên Bưu cục": "BUU DIEN PHUONG KIEN TUONG",
-        "Họ và tên người sử dụng": "MAY DUNG CHUNG",
-        "Mã HRM": "00258139",
-        "Bộ phận / Phòng ban": "BUU CUC GIAO DICH",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAN-KTUONG-NHI",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "Vostro 3888",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "HGGQ0D3",
-        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "494 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
         "Office": "",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
-        "IP Address": "10.81.172.79",
-        "MAC Address": "70:B5:E8:57:71:3C"
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP NEVERSTOP LASER 1000W",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "CINO",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-26T09:40:57",
-      "updatedAt": "2026-06-26T09:40:57"
+      "attachments": [],
+      "createdAt": "2026-06-26T09:41:00",
+      "updatedAt": "2026-06-26T09:41:00"
     }
   ]
 }
