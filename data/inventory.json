@@ -8692,6 +8692,37 @@
       ],
       "createdAt": "2026-06-26T08:01:11",
       "updatedAt": "2026-06-26T08:01:11"
+    },
+    {
+      "id": "74f9737146ab418ca90a0aa5c3dd6221",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853100",
+        "Tên Bưu cục": "CẦN GIUỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THANH TÙNG",
+        "Mã HRM": "00044343",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FADVV4H",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "DP0T3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.147.83",
+        "MAC Address": "98:40:BB:0B:76:CB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:01:16",
+      "updatedAt": "2026-06-26T08:01:16"
     }
   ]
 }
