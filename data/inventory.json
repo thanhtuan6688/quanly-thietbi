@@ -12046,6 +12046,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:52:58",
       "updatedAt": "2026-06-26T09:52:58"
+    },
+    {
+      "id": "4f4713fcaced49d48a79bd07cb4810bf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH2",
+        "Họ và tên người sử dụng": "NGUYEN HOAI BA THINH",
+        "Mã HRM": "57651",
+        "Bộ phận / Phòng ban": "KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TNH-KTTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBZ2TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.42",
+        "MAC Address": "B8:85:84:A8:E5:12"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:55:29",
+      "updatedAt": "2026-06-26T09:55:29"
     }
   ]
 }
