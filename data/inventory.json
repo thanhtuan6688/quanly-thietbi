@@ -11758,6 +11758,43 @@
       ],
       "createdAt": "2026-06-26T09:20:38",
       "updatedAt": "2026-06-26T09:20:38"
+    },
+    {
+      "id": "801d0ffe26ba4fa7a754d3d7006ca8c4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH co so 2",
+        "Họ và tên người sử dụng": "NGUYEN THANH NHAN",
+        "Mã HRM": "00247368",
+        "Bộ phận / Phòng ban": "KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTKTVC-XND-1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "J8CTG52",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.20",
+        "MAC Address": "B0:83:FE:AB:8F:26"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:24:17",
+      "updatedAt": "2026-06-26T09:24:17"
     }
   ]
 }
