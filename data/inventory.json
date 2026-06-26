@@ -6509,6 +6509,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:12:03",
       "updatedAt": "2026-06-26T07:12:03"
+    },
+    {
+      "id": "6629c17955c34be6a88ff900320af214",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8532",
+        "Tên Xã": "NHỰT TẢO",
+        "Mã Bưu cục": "852150",
+        "Tên Bưu cục": "LẠC TẤN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ CẨM PHƯƠNG",
+        "Mã HRM": "00044550",
+        "Bộ phận / Phòng ban": "TÂN TRỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTRU-VHXLTA",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z15X",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "246 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "E8:80:88:B8:A5:E1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:13:13",
+      "updatedAt": "2026-06-26T07:13:13"
     }
   ]
 }
