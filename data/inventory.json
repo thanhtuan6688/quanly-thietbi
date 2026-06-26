@@ -12591,6 +12591,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:39:05",
       "updatedAt": "2026-06-26T10:39:05"
+    },
+    {
+      "id": "7d45ee67f8784d40a4bcbf64442b6344",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "BCKT LA",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6CPZ8R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.175.30",
+        "MAC Address": "8C:EC:4B:89:9C:9C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother DCP-B7535DW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:41:19",
+      "updatedAt": "2026-06-26T10:41:19"
     }
   ]
 }
