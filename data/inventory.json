@@ -6352,6 +6352,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:08:17",
       "updatedAt": "2026-06-26T07:08:17"
+    },
+    {
+      "id": "cf12c7865e78437c8257c776cf584e27",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841830",
+        "Tên Bưu cục": "Bưu Cục Vận Hành Dương Minh Châu",
+        "Họ và tên người sử dụng": "Võ Thị Thanh Nhàn",
+        "Mã HRM": "00088447",
+        "Bộ phận / Phòng ban": "Phát DMC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-DMC-BCP-NHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "HSXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.111",
+        "MAC Address": "F8:BC:12:A5:7B:56"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "TSC TE200",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol technologies",
+          "serial": "2006900531161"
+        }
+      ],
+      "createdAt": "2026-06-26T07:10:44",
+      "updatedAt": "2026-06-26T07:10:44"
     }
   ]
 }
