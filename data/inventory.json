@@ -8760,6 +8760,53 @@
       ],
       "createdAt": "2026-06-26T08:02:23",
       "updatedAt": "2026-06-26T08:02:23"
+    },
+    {
+      "id": "60b172465d3442c9a155ce99b9ce70c6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853170",
+        "Tên Bưu cục": "BƯU ĐIỆN VĂN HÓA XÃ LONG PHỤNG",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ BÍCH CHI",
+        "Mã HRM": "00044382",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CG-VHXLPHUN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZQ51H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.23",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:02:15",
+      "updatedAt": "2026-06-26T08:02:15"
     }
   ]
 }
