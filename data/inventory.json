@@ -11321,6 +11321,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:09:48",
       "updatedAt": "2026-06-26T09:09:48"
+    },
+    {
+      "id": "6cd106b1cbe34989991f5769cb23d192",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTKTVC-CS2",
+        "Họ và tên người sử dụng": "Nguyen Hoang Huy",
+        "Mã HRM": "00221466",
+        "Bộ phận / Phòng ban": "TTKTVC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132V9",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.23",
+        "MAC Address": "38:22:E2:18:92:08"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:09:55",
+      "updatedAt": "2026-06-26T09:09:55"
     }
   ]
 }
