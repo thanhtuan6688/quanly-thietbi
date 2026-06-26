@@ -7836,6 +7836,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:40:14",
       "updatedAt": "2026-06-26T07:40:14"
+    },
+    {
+      "id": "47400c54dee54512ac8377c66992389e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850000",
+        "Tên Bưu cục": "BƯU CỤC TÂN AN",
+        "Họ và tên người sử dụng": "HUỲNH THỊ KIM PHƯỢNG",
+        "Mã HRM": "00044015",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-GDTT-52",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "1RMLB03",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.34.52",
+        "MAC Address": "E4:54:E8:78:15:7D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP 402DNE",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HP 3000",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:40:54",
+      "updatedAt": "2026-06-26T07:40:54"
     }
   ]
 }
