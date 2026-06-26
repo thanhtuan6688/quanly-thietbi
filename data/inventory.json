@@ -9100,6 +9100,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T08:09:31",
       "updatedAt": "2026-06-26T08:09:31"
+    },
+    {
+      "id": "bbfcbe163ccd4cfb961e4357e38795d7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853100",
+        "Tên Bưu cục": "Bưu điện xã Cần Giuộc",
+        "Họ và tên người sử dụng": "Thái Khánh Vy",
+        "Mã HRM": "00090614",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-UNA7NVR",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9W8R8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.81.147.52",
+        "MAC Address": "B8:85:84:B0:FE:41"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T08:04:54",
+      "updatedAt": "2026-06-26T08:04:54"
     }
   ]
 }
