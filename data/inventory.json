@@ -12915,6 +12915,37 @@
       ],
       "createdAt": "2026-06-26T11:23:03",
       "updatedAt": "2026-06-26T11:23:03"
+    },
+    {
+      "id": "24389dbaae984eef86ad845c22c1488d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "Bưu điện xã Thạnh Hóa",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "Thạnh Hóa",
+        "Họ và tên người sử dụng": "Hồ Văn Tài",
+        "Mã HRM": "00044041",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-O27SEG0",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3590",
+        "Năm sản xuất": "",
+        "Serial Number": "FTZRT43",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.91.14",
+        "MAC Address": "C0:3E:BA:25:22:CF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T11:24:08",
+      "updatedAt": "2026-06-26T11:24:08"
     }
   ]
 }
