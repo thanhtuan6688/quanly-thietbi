@@ -12977,6 +12977,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T11:31:14",
       "updatedAt": "2026-06-26T11:31:14"
+    },
+    {
+      "id": "2073070295ed4ce6ab55f481ccbd6c0b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "Bưu điện xã Thạnh Hóa",
+        "Mã Bưu cục": "854500",
+        "Tên Bưu cục": "Văn hóa xã Thủy Tây",
+        "Họ và tên người sử dụng": "Nguyễn Thị Khéo",
+        "Mã HRM": "00044649",
+        "Bộ phận / Phòng ban": "NV VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-VHXTHT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCRT8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.17134",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "B8:85:84:AF:59:B5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP  M203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T11:48:36",
+      "updatedAt": "2026-06-26T11:48:36"
     }
   ]
 }
