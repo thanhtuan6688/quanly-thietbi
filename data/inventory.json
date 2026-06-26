@@ -12345,6 +12345,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:04:40",
       "updatedAt": "2026-06-26T10:04:40"
+    },
+    {
+      "id": "2b5317bfade144a9ac5b3f37f58a8e49",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8560",
+        "Tên Xã": "BƯU ĐIỆN XÃ HẬU NGHĨA",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "HẬU NGHĨA",
+        "Họ và tên người sử dụng": "NGUYỄN KIÊN CƯỜNG",
+        "Mã HRM": "00044210",
+        "Bộ phận / Phòng ban": "GIAO DỊCH HẬU NGHĨA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-HNGHIA-VANG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0231VZ3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "242 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.143.190",
+        "MAC Address": "80:E8:2C:D4:ED:4B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZDesigner ZD620-203dpi ZPL (Copy 1)",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:07:58",
+      "updatedAt": "2026-06-26T10:07:58"
     }
   ]
 }
