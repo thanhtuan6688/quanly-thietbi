@@ -12628,6 +12628,37 @@
       ],
       "createdAt": "2026-06-26T10:41:19",
       "updatedAt": "2026-06-26T10:41:19"
+    },
+    {
+      "id": "8775be60e4974db093e64d1cf4e1aa4a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "BCKT LA",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTVC-PHBC",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0QW",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.175.218",
+        "MAC Address": "E8:80:88:B8:AF:D5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T10:47:33",
+      "updatedAt": "2026-06-26T10:47:33"
     }
   ]
 }
