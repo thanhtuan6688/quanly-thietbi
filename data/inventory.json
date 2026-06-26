@@ -10477,6 +10477,48 @@
       ],
       "createdAt": "2026-06-26T08:50:39",
       "updatedAt": "2026-06-26T08:50:39"
+    },
+    {
+      "id": "588d180f65294d6bad45a7752b231242",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841170",
+        "Tên Bưu cục": "BCP  TÂY  NINH",
+        "Họ và tên người sử dụng": "VÕ  THỊ BÉ NGOAN",
+        "Mã HRM": "00083968",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTVHKV-HIEPN",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.14.9",
+        "MAC Address": "34:5A:60:70:A1:B0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON image CLASS LBP 6030",
+          "serial": "131761-11"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "YHD",
+          "serial": "6200DB"
+        }
+      ],
+      "createdAt": "2026-06-26T08:53:33",
+      "updatedAt": "2026-06-26T08:53:33"
     }
   ]
 }
