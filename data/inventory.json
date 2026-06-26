@@ -7606,6 +7606,37 @@
       ],
       "createdAt": "2026-06-26T07:34:03",
       "updatedAt": "2026-06-26T07:34:03"
+    },
+    {
+      "id": "6068ab39b11645ff961622fa7d3d8d22",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BĐT",
+        "Họ và tên người sử dụng": "VÕ THỊ XUÂN QUỲNH",
+        "Mã HRM": "00277937",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PC_TOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-S2PV",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.17134",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.14.186",
+        "MAC Address": "40:8D:5C:A2:97:76"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:34:59",
+      "updatedAt": "2026-06-26T07:34:59"
     }
   ]
 }
