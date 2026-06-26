@@ -7340,6 +7340,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:29:02",
       "updatedAt": "2026-06-26T07:29:02"
+    },
+    {
+      "id": "119e26ac52884f21bc85d059f7e3f4e6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8442",
+        "Tên Xã": "Tân Lập",
+        "Mã Bưu cục": "842250",
+        "Tên Bưu cục": "Tân Lập",
+        "Họ và tên người sử dụng": "Phan Việt Tài",
+        "Mã HRM": "00263430",
+        "Bộ phận / Phòng ban": "Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TBN-TL-THAOP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBQ3TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.140.2",
+        "MAC Address": "B8:85:84:A9:1D:2A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:30:12",
+      "updatedAt": "2026-06-26T07:30:12"
     }
   ]
 }
