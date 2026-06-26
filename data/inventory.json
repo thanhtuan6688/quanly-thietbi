@@ -11054,6 +11054,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:04:39",
       "updatedAt": "2026-06-26T09:04:39"
+    },
+    {
+      "id": "9c1da31f556d4ba19a2c8d98c476e3ff",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841350",
+        "Tên Bưu cục": "BCVH",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ HỒNG LINH",
+        "Mã HRM": "00057653",
+        "Bộ phận / Phòng ban": "KHL TÂY NINH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1043 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.14.8",
+        "MAC Address": "40:B0:76:DE:C6:CA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASER JET PRO M402D",
+          "serial": "PHCXB03591"
+        }
+      ],
+      "createdAt": "2026-06-26T09:05:01",
+      "updatedAt": "2026-06-26T09:05:01"
     }
   ]
 }
