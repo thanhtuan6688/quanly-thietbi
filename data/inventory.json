@@ -4259,6 +4259,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:50:11",
       "updatedAt": "2026-06-26T02:50:11"
+    },
+    {
+      "id": "4d2ff6e083684cb59a209c11fb3ede7d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8565",
+        "Tên Xã": "CẦN ĐƯỚC",
+        "Mã Bưu cục": "852700",
+        "Tên Bưu cục": "CẦN ĐƯỚC",
+        "Họ và tên người sử dụng": "HỒ THỊ PHƯƠNG VÂN",
+        "Mã HRM": "00044257",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC XÃ",
+        "Mã vật tư": "0011033008302",
+        "Tên máy (Hostname)": "LAN-CD-VANHTP",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.58",
+        "MAC Address": "40:8D:5C:D1:41:72"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 121/122 UFR2II",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "TOSHIBA e-STUDIO256 PCL6V4",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T02:51:05",
+      "updatedAt": "2026-06-26T02:51:05"
     }
   ]
 }
