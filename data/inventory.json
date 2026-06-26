@@ -8467,6 +8467,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:58:38",
       "updatedAt": "2026-06-26T07:58:38"
+    },
+    {
+      "id": "3cd36ec5080540748a78f6b99770164f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853100",
+        "Tên Bưu cục": "CẦN GIUỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NHAN",
+        "Mã HRM": "00044338",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QDUGEUO",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2010 @ 2.80GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "456 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.147.17",
+        "MAC Address": "94:DE:80:C4:87:CE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:58:49",
+      "updatedAt": "2026-06-26T07:58:49"
     }
   ]
 }
