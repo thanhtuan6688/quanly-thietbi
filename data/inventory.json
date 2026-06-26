@@ -3659,6 +3659,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:15:38",
       "updatedAt": "2026-06-26T02:15:38"
+    },
+    {
+      "id": "e9c56d513cdf4c16926e311df0e770b5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "85000",
+        "Tên Bưu cục": "Bưu điện tỉnh Tây Ninh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Cẩm Tú",
+        "Mã HRM": "00043798",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TCHC-TU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "BKS82K2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.14.28",
+        "MAC Address": "50:9A:4C:02:B5:30"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:17:00",
+      "updatedAt": "2026-06-26T02:17:00"
     }
   ]
 }
