@@ -7418,6 +7418,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:30:25",
       "updatedAt": "2026-06-26T07:30:25"
+    },
+    {
+      "id": "309c7ea3a21d43faa3626648d4565f3e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BĐT",
+        "Họ và tên người sử dụng": "Trần Văn Phụng",
+        "Mã HRM": "00043806",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KHKD-PHUNGT",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 15 3530",
+        "Năm sản xuất": "",
+        "Serial Number": "2SB0DZ3",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-1335U",
+        "RAM": "15,7 GB",
+        "Ổ cứng": "456 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, McAfee",
+        "IP Address": "10.165.80.103",
+        "MAC Address": "14:AC:60:3E:F2:E5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:31:14",
+      "updatedAt": "2026-06-26T07:31:14"
     }
   ]
 }
