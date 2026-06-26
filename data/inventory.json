@@ -10629,6 +10629,53 @@
       ],
       "createdAt": "2026-06-26T08:57:52",
       "updatedAt": "2026-06-26T08:57:52"
+    },
+    {
+      "id": "fd92075b437c446797fa9c8c6ff87717",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8435",
+        "Tên Xã": "BƯU ĐIỆN XÃ BẾN CẦU",
+        "Mã Bưu cục": "842900",
+        "Tên Bưu cục": "BƯU CỤC XÃ BẾN CẦU",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THU HÀ",
+        "Mã HRM": "00057172",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "GBNN9M2",
+        "CPU": "Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.135",
+        "MAC Address": "14:B3:1F:2D:3E:07"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP6230DN",
+          "serial": "NCBA174617"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J183404198"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "Z1VELK"
+        }
+      ],
+      "createdAt": "2026-06-26T08:55:07",
+      "updatedAt": "2026-06-26T08:55:07"
     }
   ]
 }
