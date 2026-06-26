@@ -12948,41 +12948,35 @@
       "updatedAt": "2026-06-26T11:24:08"
     },
     {
-      "id": "151220f9608448c9a795303cdc658b6e",
+      "id": "9f4beec7eef84a25b3129861629a37c4",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "8502",
-        "Tên Xã": "Bưu điện xã Thạnh Hóa",
-        "Mã Bưu cục": "854400",
-        "Tên Bưu cục": "Thanh hóa",
-        "Họ và tên người sử dụng": "Hồ Văn Tài",
-        "Mã HRM": "00044041",
-        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAN-THOA-TAIHV",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11T4S8YP00",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "GM06Z0P8",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "236 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
-        "Office": "Microsoft 365 - en-us",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.91.15",
-        "MAC Address": "E8:80:88:B4:30:E0"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "cannon 251",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-26T11:31:12",
-      "updatedAt": "2026-06-26T11:31:12"
+      "attachments": [],
+      "createdAt": "2026-06-26T11:31:14",
+      "updatedAt": "2026-06-26T11:31:14"
     }
   ]
 }
