@@ -7278,6 +7278,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:26:55",
       "updatedAt": "2026-06-26T07:26:55"
+    },
+    {
+      "id": "31fc01d4a9a3426785ce6d9bd71d785e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8532",
+        "Tên Xã": "NHỰT TẢO",
+        "Mã Bưu cục": "852150",
+        "Tên Bưu cục": "LAC TÂN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ CẨM PHƯƠNG",
+        "Mã HRM": "00044550",
+        "Bộ phận / Phòng ban": "TÂN TRỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTRU-VHXLTA",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z15X",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "246 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "E8:80:88:B8:A5:E1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:27:04",
+      "updatedAt": "2026-06-26T07:27:04"
     }
   ]
 }
