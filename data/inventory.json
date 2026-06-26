@@ -6006,6 +6006,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T06:52:28",
       "updatedAt": "2026-06-26T06:52:28"
+    },
+    {
+      "id": "21fe3b3af3d04f61b4f4ecad22065b1a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8567",
+        "Tên Xã": "Tân Trụ",
+        "Mã Bưu cục": "852100",
+        "Tên Bưu cục": "Tân Trụ",
+        "Họ và tên người sử dụng": "Võ Thị Hồng Vân",
+        "Mã HRM": "00043814",
+        "Bộ phận / Phòng ban": "Bưu cục gd",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTRU-GD30",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "83K90J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "233 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.149.30",
+        "MAC Address": "48:4D:7E:B9:D5:04"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:54:07",
+      "updatedAt": "2026-06-26T06:54:07"
     }
   ]
 }
