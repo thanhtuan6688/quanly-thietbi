@@ -8149,6 +8149,48 @@
       ],
       "createdAt": "2026-06-26T07:47:40",
       "updatedAt": "2026-06-26T07:47:40"
+    },
+    {
+      "id": "c09c164431b046a0b3b7e50f6fa4b418",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "843490",
+        "Tên Bưu cục": "BCVH TRẢNG BÀNG",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NGỌC HUỲNH",
+        "Mã HRM": "00216107",
+        "Bộ phận / Phòng ban": "NHAN VIEN NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-R4U307A",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC522147V",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.170",
+        "MAC Address": "10:B6:76:9E:13:54"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:52:30",
+      "updatedAt": "2026-06-26T07:52:30"
     }
   ]
 }
