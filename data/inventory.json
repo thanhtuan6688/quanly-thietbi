@@ -4166,6 +4166,37 @@
       ],
       "createdAt": "2026-06-26T02:45:00",
       "updatedAt": "2026-06-26T02:45:00"
+    },
+    {
+      "id": "30172535459847289bfc44156ea9b981",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8565",
+        "Tên Xã": "Bưu điện xã Cần Đước",
+        "Mã Bưu cục": "852700",
+        "Tên Bưu cục": "Cần Đước",
+        "Họ và tên người sử dụng": "Lê Thị Thanh Trúc",
+        "Mã HRM": "00215261",
+        "Bộ phận / Phòng ban": "kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-KTOAN248",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0231W2S",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.18",
+        "MAC Address": "80:E8:2C:D4:E7:B5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:45:36",
+      "updatedAt": "2026-06-26T02:45:36"
     }
   ]
 }
