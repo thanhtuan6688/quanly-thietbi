@@ -7106,6 +7106,43 @@
       ],
       "createdAt": "2026-06-26T07:24:04",
       "updatedAt": "2026-06-26T07:24:04"
+    },
+    {
+      "id": "9056f98454bf4aebba526805782a619a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Trần Ái Nhi",
+        "Mã HRM": "00057108",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TPKHKD-NHITA",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "31.7 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.16.28",
+        "MAC Address": "00:89:75:BE:4E:AE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon Generic Plus UFR II",
+          "serial": "NYTA023981"
+        }
+      ],
+      "createdAt": "2026-06-26T07:24:36",
+      "updatedAt": "2026-06-26T07:24:36"
     }
   ]
 }
