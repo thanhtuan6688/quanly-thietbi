@@ -6965,6 +6965,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:20:58",
       "updatedAt": "2026-06-26T07:20:58"
+    },
+    {
+      "id": "f3bd2c6d31614296aeecec626dfd1578",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8547",
+        "Tên Xã": "BƯU ĐIỆN XÃ TUYÊN THẠNH",
+        "Mã Bưu cục": "855730",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ TUYÊN THẠNH",
+        "Họ và tên người sử dụng": "HỒ THỊ THÙY DƯƠNG",
+        "Mã HRM": "00243459",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC BƯU ĐIỆN XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15-da0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "CND90468RZ",
+        "CPU": "Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.26",
+        "MAC Address": "0C:96:E6:CF:23:E3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:21:42",
+      "updatedAt": "2026-06-26T07:21:42"
     }
   ]
 }
