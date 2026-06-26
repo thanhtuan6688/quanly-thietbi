@@ -3690,6 +3690,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:17:00",
       "updatedAt": "2026-06-26T02:17:00"
+    },
+    {
+      "id": "f457ad85e7174c76b3db766e932455cf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "85000",
+        "Tên Bưu cục": "Bưu điện tỉnh Tây Ninh",
+        "Họ và tên người sử dụng": "Phạm Nguyễn Tú",
+        "Mã HRM": "00043813",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KHKD-TUPN",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 14 5410",
+        "Năm sản xuất": "",
+        "Serial Number": "9KVLJL3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+        "RAM": "15,7 GB",
+        "Ổ cứng": "458 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, McAfee",
+        "IP Address": "10.165.80.121",
+        "MAC Address": "50:84:92:66:56:ED"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:18:49",
+      "updatedAt": "2026-06-26T02:18:49"
     }
   ]
 }
