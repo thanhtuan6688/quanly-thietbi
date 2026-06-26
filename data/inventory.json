@@ -11091,6 +11091,37 @@
       ],
       "createdAt": "2026-06-26T09:05:01",
       "updatedAt": "2026-06-26T09:05:01"
+    },
+    {
+      "id": "a1e5662b6403413ba00a524da8e46921",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8431",
+        "Tên Xã": "Bưu điện xã Thạnh Đức",
+        "Mã Bưu cục": "843220",
+        "Tên Bưu cục": "Bưu điện Thạnh Đức",
+        "Họ và tên người sử dụng": "Trần Huỳnh Thúy Vi",
+        "Mã HRM": "00057279",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDGDU-VHXTHA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133DW",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "38:22:E2:19:3B:B5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T09:06:25",
+      "updatedAt": "2026-06-26T09:06:25"
     }
   ]
 }
