@@ -7449,6 +7449,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:31:14",
       "updatedAt": "2026-06-26T07:31:14"
+    },
+    {
+      "id": "0109109e551446d488630d01a851e5f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BĐT",
+        "Họ và tên người sử dụng": "Hồ Lý Duy",
+        "Mã HRM": "00222564",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTKD-DUY",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP 240R 14 inch G9 Notebook PC",
+        "Năm sản xuất": "",
+        "Serial Number": "5CG43522WZ",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-1335U",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, McAfee, 360 Total Security",
+        "IP Address": "10.165.80.136",
+        "MAC Address": "28:D0:43:F8:6A:6E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:29:38",
+      "updatedAt": "2026-06-26T07:29:38"
     }
   ]
 }
