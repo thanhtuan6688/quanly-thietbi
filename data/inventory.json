@@ -12449,6 +12449,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:17:38",
       "updatedAt": "2026-06-26T10:17:38"
+    },
+    {
+      "id": "49763a39f0b44a0392fc1ed17b3ce552",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8560",
+        "Tên Xã": "BƯU ĐIỆN XÃ HẬU NGHĨA",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "HẬU NGHĨA",
+        "Họ và tên người sử dụng": "NGUYỄN KIÊN CƯỜNG",
+        "Mã HRM": "00044210",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-HN52",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6CT19R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.143.52",
+        "MAC Address": "8C:EC:4B:89:9B:B7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LBP121/122",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:16:39",
+      "updatedAt": "2026-06-26T10:16:39"
     }
   ]
 }
