@@ -12198,6 +12198,43 @@
       ],
       "createdAt": "2026-06-26T09:59:28",
       "updatedAt": "2026-06-26T09:59:28"
+    },
+    {
+      "id": "2e4516be544a4543b939ddea4418b791",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTVH CS2",
+        "Họ và tên người sử dụng": "LE THI HANH",
+        "Mã HRM": "00057641",
+        "Bộ phận / Phòng ban": "KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TTKTVC-BAOCH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 390",
+        "Năm sản xuất": "",
+        "Serial Number": "3QB4F2S",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "455 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.151.36",
+        "MAC Address": "78:45:C4:1F:98:3C"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:00:48",
+      "updatedAt": "2026-06-26T10:00:48"
     }
   ]
 }
