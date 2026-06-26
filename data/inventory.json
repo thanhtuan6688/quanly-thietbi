@@ -6577,6 +6577,43 @@
       ],
       "createdAt": "2026-06-26T07:13:45",
       "updatedAt": "2026-06-26T07:13:45"
+    },
+    {
+      "id": "c29712a0543644d197dfcd76396b67bc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8409",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Lưu Thái Dũng",
+        "Mã HRM": "00043786",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TCKT-DUNGLT",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP ProBook 440 14 inch G10 Notebook PC",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD411BV8Z",
+        "CPU": "13th Gen Intel(R) Core(TM) i7-1355U",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.102",
+        "MAC Address": "F8:FE:5E:BF:68:0F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:14:40",
+      "updatedAt": "2026-06-26T07:14:40"
     }
   ]
 }
