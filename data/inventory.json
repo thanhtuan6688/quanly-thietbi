@@ -12272,6 +12272,48 @@
       ],
       "createdAt": "2026-06-26T10:00:40",
       "updatedAt": "2026-06-26T10:00:40"
+    },
+    {
+      "id": "cddf5e354c144ab1b78d6db40cd2dd6d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8560",
+        "Tên Xã": "HẬU NGHĨA",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "HẬU NGHĨA",
+        "Họ và tên người sử dụng": "PHAN NGỌC DUNG",
+        "Mã HRM": "00044205",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-HNGHIA-CUON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "H6GNRK2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.143.17",
+        "MAC Address": "50:9A:4C:13:B0:1C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANNON 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:04:22",
+      "updatedAt": "2026-06-26T10:04:22"
     }
   ]
 }
