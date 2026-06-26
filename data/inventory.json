@@ -12878,6 +12878,43 @@
       ],
       "createdAt": "2026-06-26T11:17:11",
       "updatedAt": "2026-06-26T11:17:11"
+    },
+    {
+      "id": "339de54ea8e944da97cf51b4f346e21a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "853930",
+        "Tên Bưu cục": "BĐVHX HÒA KHÁNH NAM",
+        "Họ và tên người sử dụng": "PHAN THỊ THÙY QUYÊN",
+        "Mã HRM": "00044248",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHO-VHXHKNA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZSV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "B8:85:84:B1:26:E0"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T11:23:03",
+      "updatedAt": "2026-06-26T11:23:03"
     }
   ]
 }
