@@ -11479,6 +11479,48 @@
       ],
       "createdAt": "2026-06-26T09:12:25",
       "updatedAt": "2026-06-26T09:12:25"
+    },
+    {
+      "id": "dcbbac553d7848df8f8fcdaac6955bf9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "841170",
+        "Tên Bưu cục": "bcvh tân ninh",
+        "Họ và tên người sử dụng": "nguyễn thiên tân",
+        "Mã HRM": "0024748",
+        "Bộ phận / Phòng ban": "bcvh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-KTVC-BCP-TAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "J469HJ2",
+        "CPU": "Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.151.19",
+        "MAC Address": "14:B3:1F:0A:3D:1A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra zd620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "máy quét mã vạch Zebra DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:13:03",
+      "updatedAt": "2026-06-26T09:13:03"
     }
   ]
 }
