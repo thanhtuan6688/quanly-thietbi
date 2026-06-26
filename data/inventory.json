@@ -8327,6 +8327,37 @@
       ],
       "createdAt": "2026-06-26T07:55:43",
       "updatedAt": "2026-06-26T07:55:43"
+    },
+    {
+      "id": "c1de90b7246e4df18c8cef74ab242265",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8408",
+        "Tên Xã": "BĐP Gò Dầu",
+        "Mã Bưu cục": "843100",
+        "Tên Bưu cục": "Gò Dầu",
+        "Họ và tên người sử dụng": "Nguyễn Đăng Khoa",
+        "Mã HRM": "00269230",
+        "Bộ phận / Phòng ban": "NV HCC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-K9718AD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214BM",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.35",
+        "MAC Address": "10:B6:76:9E:20:36"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:56:49",
+      "updatedAt": "2026-06-26T07:56:49"
     }
   ]
 }
