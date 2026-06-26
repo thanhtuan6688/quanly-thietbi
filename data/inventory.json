@@ -11899,6 +11899,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:41:00",
       "updatedAt": "2026-06-26T09:41:00"
+    },
+    {
+      "id": "e153ec836afd4f868c94cfd1c3e97802",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851800",
+        "Tên Bưu cục": "CHÂU THÀNH",
+        "Họ và tên người sử dụng": "NGUYỄN QUẾ ANH",
+        "Mã HRM": "00116970",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GD_CTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3910",
+        "Năm sản xuất": "",
+        "Serial Number": "DMGWYR3",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.81.153.62",
+        "MAC Address": "C0:25:A5:CD:BB:FE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:44:31",
+      "updatedAt": "2026-06-26T09:44:31"
     }
   ]
 }
