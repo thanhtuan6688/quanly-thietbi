@@ -4020,6 +4020,37 @@
       ],
       "createdAt": "2026-06-26T02:40:34",
       "updatedAt": "2026-06-26T02:40:34"
+    },
+    {
+      "id": "f1acc4dc913f4952bb89b3ceb1648a6c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BĐX TT",
+        "Tên Xã": "Bưu Điện Xã Cần Đước",
+        "Mã Bưu cục": "8565",
+        "Tên Bưu cục": "852700",
+        "Họ và tên người sử dụng": "Nguyễn Thị Cẩm Ngoan",
+        "Mã HRM": "00044275",
+        "Bộ phận / Phòng ban": "kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-KTOAN19",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "JHGQ0D3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.51",
+        "MAC Address": "70:B5:E8:57:71:E6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:41:56",
+      "updatedAt": "2026-06-26T02:41:56"
     }
   ]
 }
