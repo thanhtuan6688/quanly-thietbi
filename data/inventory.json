@@ -9278,6 +9278,43 @@
       ],
       "createdAt": "2026-06-26T08:10:57",
       "updatedAt": "2026-06-26T08:10:57"
+    },
+    {
+      "id": "1f31858b78f3411480f4da47e0a02db8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "853180",
+        "Tên Xã": "BƯU ĐIỆN XÃ TÂN TẬP",
+        "Mã Bưu cục": "853180",
+        "Tên Bưu cục": "BƯU ĐIỆN ĐÔNG THẠNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HỒNG SƠN CA",
+        "Mã HRM": "00044383",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CGI-VHXDT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z258",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.17",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:11:05",
+      "updatedAt": "2026-06-26T08:11:05"
     }
   ]
 }
