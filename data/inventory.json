@@ -10981,6 +10981,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:04:12",
       "updatedAt": "2026-06-26T09:04:12"
+    },
+    {
+      "id": "8ecc29bd6a2946eeb89f7bb644e62549",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "84",
+        "Tên Bưu cục": "BCP-TTKTVC",
+        "Họ và tên người sử dụng": "Nguyen Hoang Huy",
+        "Mã HRM": "00221466",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DHVMPQQ",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214JX",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.40",
+        "MAC Address": "10:B6:76:9E:13:88"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:04:20",
+      "updatedAt": "2026-06-26T09:04:20"
     }
   ]
 }
