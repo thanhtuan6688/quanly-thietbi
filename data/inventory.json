@@ -12562,51 +12562,35 @@
       "updatedAt": "2026-06-26T10:22:26"
     },
     {
-      "id": "bef4124c71634c6f9a50cb5cd6c6865d",
+      "id": "c3ae27f5b27d433c8c618c2d598b6247",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "8425",
-        "Tên Xã": "TÂN BIÊN",
-        "Mã Bưu cục": "842200",
-        "Tên Bưu cục": "BƯU CỤC GIAO DICH TRUNG TÂM TÂN BIÊN",
-        "Họ và tên người sử dụng": "BÙI THỊ NGỌC BÍCH",
-        "Mã HRM": "00276186",
-        "Bộ phận / Phòng ban": "GDTT",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "TNH-TBIEN-BCGD",
-        "Loại máy": "Desktop",
-        "Hãng": "System manufacturer",
-        "Model": "System Product Name",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "System Serial Number",
-        "CPU": "Intel(R) Pentium(R) CPU G620 @ 2.60GHz",
-        "RAM": "3.2 GB",
-        "Ổ cứng": "354 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
-        "Office": "Microsoft Office Professional Plus 2016",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
         "Antivirus": "",
-        "IP Address": "10.73.22.214",
-        "MAC Address": "30:85:A9:ED:34:E7"
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "LASER JET PRO M201DW",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "ZEBRA ZD 620",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "ZEBRA DS22",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-26T10:39:03",
-      "updatedAt": "2026-06-26T10:39:03"
+      "attachments": [],
+      "createdAt": "2026-06-26T10:39:05",
+      "updatedAt": "2026-06-26T10:39:05"
     }
   ]
 }
