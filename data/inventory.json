@@ -11521,6 +11521,43 @@
       ],
       "createdAt": "2026-06-26T09:13:03",
       "updatedAt": "2026-06-26T09:13:03"
+    },
+    {
+      "id": "2049d02756214ee69cf688dabcc098d5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840100",
+        "Tên Bưu cục": "TTKTVC-CS2",
+        "Họ và tên người sử dụng": "nguyen truong binh",
+        "Mã HRM": "00249336",
+        "Bộ phận / Phòng ban": "khai thac",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132V9",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.151.23",
+        "MAC Address": "38:22:E2:18:92:08"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ZTC-DS2278}}{14\"606261\",\"st\":\"5\",\"sbg\":\"22\",\"kltt\":\"28,55\",\"klqd\":\"19\"bd10\":{\"c\":\"840100843040",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:15:49",
+      "updatedAt": "2026-06-26T09:15:49"
     }
   ]
 }
