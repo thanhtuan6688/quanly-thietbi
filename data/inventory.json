@@ -5565,6 +5565,43 @@
       ],
       "createdAt": "2026-06-26T06:43:39",
       "updatedAt": "2026-06-26T06:43:39"
+    },
+    {
+      "id": "0293dbcfca8a40a1b090ca3123c9a5f9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842400",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ CHÂU THÀNH",
+        "Họ và tên người sử dụng": "TRẦN THỊ THUÝ NGA",
+        "Mã HRM": "00105335",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq 6200 Pro SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "sgh218QZYR",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.73.22.6",
+        "MAC Address": "E8:39:35:4F:E9:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:48:32",
+      "updatedAt": "2026-06-26T06:48:32"
     }
   ]
 }
