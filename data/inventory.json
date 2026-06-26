@@ -4197,6 +4197,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:45:36",
       "updatedAt": "2026-06-26T02:45:36"
+    },
+    {
+      "id": "ed899cd5f9df4c8dbea71894f58a11a7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8565",
+        "Tên Bưu cục": "XÃ CẦN ĐƯỚC",
+        "Họ và tên người sử dụng": "PHẠM HỒNG VÂN",
+        "Mã HRM": "00105755",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-KTOAN214",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6HS79R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.66",
+        "MAC Address": "74:40:BB:D5:58:F3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:50:05",
+      "updatedAt": "2026-06-26T02:50:05"
     }
   ]
 }
