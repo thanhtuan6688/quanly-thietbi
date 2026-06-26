@@ -6153,6 +6153,43 @@
       ],
       "createdAt": "2026-06-26T07:00:50",
       "updatedAt": "2026-06-26T07:00:50"
+    },
+    {
+      "id": "f77de73722d147949676867e48be31e8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8555",
+        "Tên Xã": "xã Tân Thạnh",
+        "Mã Bưu cục": "854600",
+        "Tên Bưu cục": "Bưu điện Tân Thạnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Mỹ Phượng+Lê Thị Thu Trang",
+        "Mã HRM": "00044604",
+        "Bộ phận / Phòng ban": "P kê toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTA-THAM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GCHXSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.27",
+        "MAC Address": "B8:85:84:A8:CA:0A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:01:06",
+      "updatedAt": "2026-06-26T07:01:06"
     }
   ]
 }
