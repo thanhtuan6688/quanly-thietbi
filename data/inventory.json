@@ -13082,6 +13082,37 @@
       ],
       "createdAt": "2026-06-27T01:14:07",
       "updatedAt": "2026-06-27T01:14:07"
+    },
+    {
+      "id": "70f68b498dab42729778d662a87f2330",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "BƯU ĐIỆN XÃ THẠNH HÓA",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "THẠNH HÓA",
+        "Họ và tên người sử dụng": "NGÔ THỊ LỆ HẰNG",
+        "Mã HRM": "00044609",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-Q5AVD0K",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3590",
+        "Năm sản xuất": "",
+        "Serial Number": "JB3LR53",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.91.23",
+        "MAC Address": "5C:3A:45:BD:8F:95"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-27T01:17:10",
+      "updatedAt": "2026-06-27T01:17:10"
     }
   ]
 }
