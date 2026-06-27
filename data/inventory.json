@@ -13643,6 +13643,48 @@
       ],
       "createdAt": "2026-06-27T04:47:13",
       "updatedAt": "2026-06-27T04:47:13"
+    },
+    {
+      "id": "3a2a406828e241b99d0469713e636897",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840000",
+        "Tên Bưu cục": "Giao dịch cấp 1 Tây Ninh",
+        "Họ và tên người sử dụng": "TRỊNH THỊ THÚY HẰNG",
+        "Mã HRM": "00104341",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TPO-GD-BCCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050 AIO",
+        "Năm sản xuất": "",
+        "Serial Number": "GB7M9M2",
+        "CPU": "Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.14.16",
+        "MAC Address": "14:B3:1F:2D:3C:10"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "YHDAA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:51:56",
+      "updatedAt": "2026-06-27T04:51:56"
     }
   ]
 }
