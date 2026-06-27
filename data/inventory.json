@@ -13448,6 +13448,43 @@
       ],
       "createdAt": "2026-06-27T04:12:12",
       "updatedAt": "2026-06-27T04:12:12"
+    },
+    {
+      "id": "bfdde2a123ee42e3b229e5ac1f1c198a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8400000",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG TÂN NINH",
+        "Họ và tên người sử dụng": "NGÔ THỊ THUẬN HÒA",
+        "Mã HRM": "00057483",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDTP-PHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821140650",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.14.2",
+        "MAC Address": "50:AF:73:37:9E:0E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET PRO M203D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:16:11",
+      "updatedAt": "2026-06-27T04:16:11"
     }
   ]
 }
