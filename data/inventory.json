@@ -13685,6 +13685,48 @@
       ],
       "createdAt": "2026-06-27T04:51:56",
       "updatedAt": "2026-06-27T04:51:56"
+    },
+    {
+      "id": "b7646973141d4b46a97374e23129778b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8425",
+        "Tên Xã": "BĐX TÂN BIÊN",
+        "Mã Bưu cục": "842200",
+        "Tên Bưu cục": "GDTT TÂN BIÊN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ GIA LINH",
+        "Mã HRM": "00108880",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-LVQ6EMU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214MG",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.208",
+        "MAC Address": "10:B6:76:9E:13:F6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO M203D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T10:29:01",
+      "updatedAt": "2026-06-27T10:29:01"
     }
   ]
 }
