@@ -13150,6 +13150,43 @@
       ],
       "createdAt": "2026-06-27T01:21:06",
       "updatedAt": "2026-06-27T01:21:06"
+    },
+    {
+      "id": "ba255de31ec34c078e4751baec340e58",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "BƯU ĐIỆN XÃ THẠNH HOÁ",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "THẠNH HOÁ",
+        "Họ và tên người sử dụng": "BÙI THỊ KIM CƯƠNG",
+        "Mã HRM": "00044641",
+        "Bộ phận / Phòng ban": "THỦ QUỸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-CUONGB",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0241KP0",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.150.216",
+        "MAC Address": "80:E8:2C:DA:8F:5B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "PH M402dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T01:26:03",
+      "updatedAt": "2026-06-27T01:26:03"
     }
   ]
 }
