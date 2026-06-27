@@ -13596,6 +13596,53 @@
       ],
       "createdAt": "2026-06-27T04:43:27",
       "updatedAt": "2026-06-27T04:43:27"
+    },
+    {
+      "id": "fd49e420aa4f40b8a7dce576a8e4a513",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "840000",
+        "Tên Bưu cục": "Giao dịch cấp 1 Tây Ninh",
+        "Họ và tên người sử dụng": "Bùi Ngọc Uyên Phương",
+        "Mã HRM": "00246190",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDTP-GDTT-HA",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821130132",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.14.12",
+        "MAC Address": "50:AF:73:37:97:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:47:13",
+      "updatedAt": "2026-06-27T04:47:13"
     }
   ]
 }
