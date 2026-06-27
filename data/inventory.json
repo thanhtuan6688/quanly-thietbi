@@ -13113,6 +13113,43 @@
       "attachments": [],
       "createdAt": "2026-06-27T01:17:10",
       "updatedAt": "2026-06-27T01:17:10"
+    },
+    {
+      "id": "4bbf3c0c0bb54410bc60926249129938",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8502",
+        "Tên Xã": "BƯU ĐIỆN XÃ THẠNH HÓA",
+        "Mã Bưu cục": "854400",
+        "Tên Bưu cục": "THẠNH HÓA",
+        "Họ và tên người sử dụng": "NGÔ THỊ LỆ HẰNG",
+        "Mã HRM": "00044609",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-DIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "D6B59R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.150.214",
+        "MAC Address": "8C:EC:4B:89:2D:04"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO MFP M225DW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T01:21:06",
+      "updatedAt": "2026-06-27T01:21:06"
     }
   ]
 }
