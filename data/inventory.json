@@ -13559,6 +13559,43 @@
       ],
       "createdAt": "2026-06-27T04:19:02",
       "updatedAt": "2026-06-27T04:19:02"
+    },
+    {
+      "id": "90ad29404a5146d683ffaf7540ed48a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8400",
+        "Tên Xã": "Bưu điện phường Tân Ninh",
+        "Mã Bưu cục": "840000",
+        "Tên Bưu cục": "Bưu cục Giao dịch cấp 1 Tây Ninh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ánh Linh",
+        "Mã HRM": "00057677",
+        "Bộ phận / Phòng ban": "giao dịch tt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-TPO-GIAMDOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G7R5TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.14.25",
+        "MAC Address": "00:86:43:95:12:DF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:43:27",
+      "updatedAt": "2026-06-27T04:43:27"
     }
   ]
 }
