@@ -13229,6 +13229,48 @@
       ],
       "createdAt": "2026-06-27T01:49:06",
       "updatedAt": "2026-06-27T01:49:06"
+    },
+    {
+      "id": "232f4439cb2347229d5e9c48df101ba1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "853950",
+        "Tên Xã": "ĐỨC HÒA",
+        "Mã Bưu cục": "853950",
+        "Tên Bưu cục": "BƯU CỤC XÃ ĐỨC HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN HẢI TRIỀU",
+        "Mã HRM": "00117049",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHOA-VAN2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "72WVHF3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.141.33",
+        "MAC Address": "B0:7B:25:14:D4:D7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "BIXOLON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "VOYAGER",
+          "serial": "3K18351696"
+        }
+      ],
+      "createdAt": "2026-06-27T01:51:28",
+      "updatedAt": "2026-06-27T01:51:28"
     }
   ]
 }
