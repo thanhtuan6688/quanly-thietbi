@@ -14094,6 +14094,43 @@
       ],
       "createdAt": "2026-06-29T16:47:13",
       "updatedAt": "2026-06-29T16:47:13"
+    },
+    {
+      "id": "98dbcf5248254e43a42b4947fac6e0ef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCKT LA",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTVC-TBC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.175.200",
+        "MAC Address": "18:C0:4D:56:A5:F6"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T16:48:34",
+      "updatedAt": "2026-06-29T16:48:34"
     }
   ]
 }
