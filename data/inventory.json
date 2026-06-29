@@ -13727,6 +13727,37 @@
       ],
       "createdAt": "2026-06-27T10:29:01",
       "updatedAt": "2026-06-27T10:29:01"
+    },
+    {
+      "id": "0b36af5b40984b25a11f4862f8009cc6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8560",
+        "Tên Xã": "Hậu Nghĩa",
+        "Mã Bưu cục": "853700",
+        "Tên Bưu cục": "Hậu Nghĩa",
+        "Họ và tên người sử dụng": "Phan Thị Đào",
+        "Mã HRM": "00044151",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHOA-DAOLAP",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3590",
+        "Năm sản xuất": "",
+        "Serial Number": "3VSG943",
+        "CPU": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "1E:BF:44:14:F8:B8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T01:11:02",
+      "updatedAt": "2026-06-29T01:11:02"
     }
   ]
 }
