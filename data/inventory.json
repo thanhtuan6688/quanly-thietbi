@@ -13758,6 +13758,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T01:11:02",
       "updatedAt": "2026-06-29T01:11:02"
+    },
+    {
+      "id": "98439c011dba451b97ac57ed7f664463",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "842900",
+        "Tên Xã": "xã bến cầu, tỉnh tây ninh",
+        "Mã Bưu cục": "843040",
+        "Tên Bưu cục": "bcp bến cầu",
+        "Họ và tên người sử dụng": "Ngô Hải Đăng",
+        "Mã HRM": "00057280",
+        "Bộ phận / Phòng ban": "bcp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-HKJ988U",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "2026",
+        "Serial Number": "8CC52214QX",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.143",
+        "MAC Address": "10:B6:76:9E:1F:BA"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "GK420d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T03:00:45",
+      "updatedAt": "2026-06-29T03:00:45"
     }
   ]
 }
