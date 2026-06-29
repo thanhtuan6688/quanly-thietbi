@@ -13800,6 +13800,48 @@
       ],
       "createdAt": "2026-06-29T03:00:45",
       "updatedAt": "2026-06-29T03:00:45"
+    },
+    {
+      "id": "4c5a221daaf64161893ff571ffce7bf6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "842900",
+        "Tên Xã": "bến cầu",
+        "Mã Bưu cục": "843040",
+        "Tên Bưu cục": "phát bến cầu",
+        "Họ và tên người sử dụng": "huỳnh thị nhung",
+        "Mã HRM": "00057280",
+        "Bộ phận / Phòng ban": "bcp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDKVGDUBCU-G",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "2026",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.137",
+        "MAC Address": "34:5A:60:69:55:7A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T03:08:24",
+      "updatedAt": "2026-06-29T03:08:24"
     }
   ]
 }
