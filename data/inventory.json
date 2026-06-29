@@ -14330,6 +14330,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T16:59:23",
       "updatedAt": "2026-06-29T16:59:23"
+    },
+    {
+      "id": "865d939de5c4490ab4def8a5419436b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCKT LA",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LA-KTVC-TAILIEU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9Z7V8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "106 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise LTSC 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.175.206",
+        "MAC Address": "B8:85:84:AF:3E:41"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T17:01:25",
+      "updatedAt": "2026-06-29T17:01:25"
     }
   ]
 }
