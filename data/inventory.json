@@ -14525,6 +14525,48 @@
       ],
       "createdAt": "2026-06-29T17:14:25",
       "updatedAt": "2026-06-29T17:14:25"
+    },
+    {
+      "id": "be567fd1ca0d4eb1a44f21b37082b14e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCKT LA",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTT2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Dell Tower ECT1250",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i5-14400",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "457 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.175.205",
+        "MAC Address": "E8:CF:83:3C:13:13"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T17:18:28",
+      "updatedAt": "2026-06-29T17:18:28"
     }
   ]
 }
