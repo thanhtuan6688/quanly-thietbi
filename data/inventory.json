@@ -13842,6 +13842,53 @@
       ],
       "createdAt": "2026-06-29T03:08:24",
       "updatedAt": "2026-06-29T03:08:24"
+    },
+    {
+      "id": "eddb883da38b4a0ea9fc665a45974e66",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8431",
+        "Tên Xã": "BCVH Gò Dầu-Bến Cầu",
+        "Mã Bưu cục": "843230",
+        "Tên Bưu cục": "Phát Gò Dầu",
+        "Họ và tên người sử dụng": "Lê Viết Tường Nguyên",
+        "Mã HRM": "00057282",
+        "Bộ phận / Phòng ban": "Tổ Khai Thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDKVGDUBCU-G",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.52",
+        "MAC Address": "34:5A:60:70:A1:B1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LPB2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J204202803"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "25105523703180"
+        }
+      ],
+      "createdAt": "2026-06-29T07:22:01",
+      "updatedAt": "2026-06-29T07:22:01"
     }
   ]
 }
