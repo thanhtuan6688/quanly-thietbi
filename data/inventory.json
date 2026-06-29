@@ -14299,6 +14299,37 @@
       ],
       "createdAt": "2026-06-29T16:57:12",
       "updatedAt": "2026-06-29T16:57:12"
+    },
+    {
+      "id": "40170afc7f3d43589c5e49a1646bea28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCKT LA",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTVC-XLNV02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132K1",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 IoT Enterprise LTSC 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.175.203",
+        "MAC Address": "38:22:E2:19:3B:B6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T16:59:23",
+      "updatedAt": "2026-06-29T16:59:23"
     }
   ]
 }
