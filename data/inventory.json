@@ -14015,6 +14015,48 @@
       ],
       "createdAt": "2026-06-29T16:39:54",
       "updatedAt": "2026-06-29T16:39:54"
+    },
+    {
+      "id": "09b8a68215084f3485c83fe9ec5c4103",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCKT LA",
+        "Tên Xã": "",
+        "Mã Bưu cục": "850100",
+        "Tên Bưu cục": "BCKT LA",
+        "Họ và tên người sử dụng": "Đinh Thị Thu Nguyên",
+        "Mã HRM": "00044863",
+        "Bộ phận / Phòng ban": "BCKT LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KTVC-EMSLT0",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3671",
+        "Năm sản xuất": "",
+        "Serial Number": "GF17R33",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "207 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.175.214",
+        "MAC Address": "E4:54:E8:E4:2B:4F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T16:45:21",
+      "updatedAt": "2026-06-29T16:45:21"
     }
   ]
 }
