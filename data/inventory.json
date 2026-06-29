@@ -13889,6 +13889,43 @@
       ],
       "createdAt": "2026-06-29T07:22:01",
       "updatedAt": "2026-06-29T07:22:01"
+    },
+    {
+      "id": "4576f0fdc47e4ea297523b12eb0cb8bd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8431",
+        "Tên Xã": "BCVH GÒ DẦU-BẾN CẦU",
+        "Mã Bưu cục": "843230",
+        "Tên Bưu cục": "PHÁT GÒ DẦU",
+        "Họ và tên người sử dụng": "TRẦN THỊ YẾN NHI",
+        "Mã HRM": "00274528",
+        "Bộ phận / Phòng ban": "XỬ LÝ NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-BDKV-BCPGDU",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Norton 360 for Gamers, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.73.22.59",
+        "MAC Address": "34:5A:60:58:A1:99"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": "18159523400008"
+        }
+      ],
+      "createdAt": "2026-06-29T07:25:46",
+      "updatedAt": "2026-06-29T07:25:46"
     }
   ]
 }
