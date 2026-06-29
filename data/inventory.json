@@ -13926,6 +13926,43 @@
       ],
       "createdAt": "2026-06-29T07:25:46",
       "updatedAt": "2026-06-29T07:25:46"
+    },
+    {
+      "id": "24f5715c9cd94917a2f7cbc96e6d2fc1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8431",
+        "Tên Xã": "BCVH GÒ DẦU-BẾN CẦU",
+        "Mã Bưu cục": "843230",
+        "Tên Bưu cục": "PHÁT GÒ DẦU",
+        "Họ và tên người sử dụng": "LÂM TẤN TRỌNG",
+        "Mã HRM": "00238330",
+        "Bộ phận / Phòng ban": "TỔ KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-7STVO3S",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC522146B",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.73.22.48",
+        "MAC Address": "10:B6:76:9E:1F:2B"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J204202741"
+        }
+      ],
+      "createdAt": "2026-06-29T07:29:36",
+      "updatedAt": "2026-06-29T07:29:36"
     }
   ]
 }
