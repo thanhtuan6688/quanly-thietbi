@@ -14567,6 +14567,48 @@
       ],
       "createdAt": "2026-06-29T17:18:28",
       "updatedAt": "2026-06-29T17:18:28"
+    },
+    {
+      "id": "6518e60080e644a8b88dd8d2803b11bd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu Điện Xã Tân Hưng",
+        "Mã Bưu cục": "855300",
+        "Tên Bưu cục": "Bưu Cục Tân Hưng",
+        "Họ và tên người sử dụng": "Nguyễn Văn Mĩnh",
+        "Mã HRM": "00044722",
+        "Bộ phận / Phòng ban": "Kế Toán chuyên quản - Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THG-KT1",
+        "Loại máy": "Máy tính bàn",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0241KXG",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.144.14",
+        "MAC Address": "80:E8:2C:DA:89:6D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in canon 2900",
+          "serial": "1"
+        },
+        {
+          "type": "photocopier",
+          "name": "Canon 2004N",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-30T02:05:45",
+      "updatedAt": "2026-06-30T02:05:45"
     }
   ]
 }
