@@ -14640,6 +14640,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T11:42:21",
       "updatedAt": "2026-06-30T11:42:21"
+    },
+    {
+      "id": "4ec6e9dc8d234c09ac29528576babb7c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8527",
+        "Tên Xã": "cần đước",
+        "Mã Bưu cục": "853280",
+        "Tên Bưu cục": "bcvh cần đước",
+        "Họ và tên người sử dụng": "ngô thị hồng diễm",
+        "Mã HRM": "00044288",
+        "Bộ phận / Phòng ban": "bcvh cần đước",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-CD-DIEMNN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "4HLS7N2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.145.74",
+        "MAC Address": "9C:30:5B:6F:28:E5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T10:14:44",
+      "updatedAt": "2026-07-01T10:14:44"
     }
   ]
 }
