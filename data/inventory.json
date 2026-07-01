@@ -14682,6 +14682,37 @@
       ],
       "createdAt": "2026-07-01T10:14:44",
       "updatedAt": "2026-07-01T10:14:44"
+    },
+    {
+      "id": "2477aa4d5fda4cb2a4348c2ae5405c41",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "TÂN HƯNG",
+        "Tên Xã": "TÂN HƯNG",
+        "Mã Bưu cục": "855300",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ TÂN HƯNG",
+        "Họ và tên người sử dụng": "BÙI THỊ THU THẢO",
+        "Mã HRM": "00080927",
+        "Bộ phận / Phòng ban": "GD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "70ZS3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "0A:33:12:22:3E:9F"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T22:38:15",
+      "updatedAt": "2026-07-01T22:38:15"
     }
   ]
 }
