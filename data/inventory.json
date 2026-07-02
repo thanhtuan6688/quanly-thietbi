@@ -16555,6 +16555,48 @@
       ],
       "createdAt": "2026-07-02T13:00:03",
       "updatedAt": "2026-07-02T13:00:03"
+    },
+    {
+      "id": "fbfc09ad3d214add9a6e25ce9c2d4135",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8558",
+        "Tên Xã": "Mỹ Thạnh",
+        "Mã Bưu cục": "853520",
+        "Tên Bưu cục": "BĐX Mỹ Thạnh",
+        "Họ và tên người sử dụng": "Quan Tuyết My",
+        "Mã HRM": "00044472",
+        "Bộ phận / Phòng ban": "Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTA-MYQT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z299",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.151.41",
+        "MAC Address": "E8:80:88:7C:AF:75"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "BIXOLON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "FUZZYSCAN CINO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T13:37:15",
+      "updatedAt": "2026-07-02T13:37:15"
     }
   ]
 }
