@@ -15704,6 +15704,37 @@
       ],
       "createdAt": "2026-07-02T07:55:52",
       "updatedAt": "2026-07-02T07:55:52"
+    },
+    {
+      "id": "c34a1c1592214c8881028fc34d0b0868",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Đông Thành",
+        "Mã Bưu cục": "8505",
+        "Tên Bưu cục": "Đông Thành",
+        "Họ và tên người sử dụng": "Lương Thị Thúy Vân",
+        "Mã HRM": "00044587",
+        "Bộ phận / Phòng ban": "thủ quỹ- thủ kho",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PC62",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0332J8H",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.81.139.62",
+        "MAC Address": "9C:7B:EF:3B:67:B4"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-02T07:59:24",
+      "updatedAt": "2026-07-02T07:59:24"
     }
   ]
 }
