@@ -16066,6 +16066,43 @@
       ],
       "createdAt": "2026-07-02T08:38:12",
       "updatedAt": "2026-07-02T08:38:12"
+    },
+    {
+      "id": "5dd8d53b8701481c8bbb55b441470606",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "855160",
+        "Tên Xã": "BĐ XÃ KHÁNH HƯNG",
+        "Mã Bưu cục": "855130",
+        "Tên Bưu cục": "BĐ VHX THÁI TRỊ",
+        "Họ và tên người sử dụng": "MAI THỊ NGỌC HÂN",
+        "Mã HRM": "00274950",
+        "Bộ phận / Phòng ban": "NV BĐ VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-VHX-TTRI",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "74:D4:35:DD:F2:8E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T09:07:47",
+      "updatedAt": "2026-07-02T09:07:47"
     }
   ]
 }
