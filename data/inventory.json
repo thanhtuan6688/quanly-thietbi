@@ -14887,41 +14887,35 @@
       "updatedAt": "2026-07-02T07:16:39"
     },
     {
-      "id": "acecf749220d4f0a8997fadee50f41ce",
+      "id": "3b760a72858a4af295600f154e2322d9",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "BẾN LỨC",
-        "Tên Xã": "BẾN LỨC",
-        "Mã Bưu cục": "852300",
-        "Tên Bưu cục": "BẾN LỨC",
-        "Họ và tên người sử dụng": "PHAN THỊ XUÂN THỊNH",
-        "Mã HRM": "00044104",
-        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAN-BL-GD104",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11T4S8YP00",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "GM06Z176",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "236 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
-        "Office": "Microsoft 365 - en-us",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.81.165.52",
-        "MAC Address": "E8:80:88:84:80:2F"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "barcode_reader",
-          "name": "CINO",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-07-02T07:18:43",
-      "updatedAt": "2026-07-02T07:18:43"
+      "attachments": [],
+      "createdAt": "2026-07-02T07:18:45",
+      "updatedAt": "2026-07-02T07:18:45"
     }
   ]
 }
