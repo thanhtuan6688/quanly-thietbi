@@ -15992,6 +15992,43 @@
       ],
       "createdAt": "2026-07-02T08:18:52",
       "updatedAt": "2026-07-02T08:18:52"
+    },
+    {
+      "id": "ca8f320dbfde4e00b8978a3e3908ea1e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "842700",
+        "Tên Bưu cục": "Bưu điện Phường Long Hoa",
+        "Họ và tên người sử dụng": "Võ Thị Kim Cương",
+        "Mã HRM": "00057538",
+        "Bộ phận / Phòng ban": "HCC phường Long Hoa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TN-HTH-HCC",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq 6200 Pro SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH218QWX9",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.77",
+        "MAC Address": "E8:39:35:4E:DE:7D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJET M1212NF MFP / HP",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T08:34:51",
+      "updatedAt": "2026-07-02T08:34:51"
     }
   ]
 }
