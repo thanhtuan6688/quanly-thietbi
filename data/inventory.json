@@ -15157,6 +15157,43 @@
       ],
       "createdAt": "2026-07-02T07:26:38",
       "updatedAt": "2026-07-02T07:26:38"
+    },
+    {
+      "id": "5d58ca65357c418bbc1f898c962a1f5b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8557",
+        "Tên Xã": "Mỹ An",
+        "Mã Bưu cục": "853550",
+        "Tên Bưu cục": "BĐX Mỹ An",
+        "Họ và tên người sử dụng": "Đỗ Toàn Thắng",
+        "Mã HRM": "00098131",
+        "Bộ phận / Phòng ban": "GDX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTA-GD99",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0332J59",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "252 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.151.199",
+        "MAC Address": "9C:7B:EF:3B:83:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Enterpise M406",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:30:31",
+      "updatedAt": "2026-07-02T07:30:31"
     }
   ]
 }
