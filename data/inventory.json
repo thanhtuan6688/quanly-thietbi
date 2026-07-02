@@ -15536,6 +15536,48 @@
       ],
       "createdAt": "2026-07-02T07:44:23",
       "updatedAt": "2026-07-02T07:44:23"
+    },
+    {
+      "id": "a89c3de9d1844bd38710ce910c5a3fd4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "854200",
+        "Tên Xã": "đông thành",
+        "Mã Bưu cục": "853770",
+        "Tên Bưu cục": "bcvh đức huệ",
+        "Họ và tên người sử dụng": "ngô lê đào uyên",
+        "Mã HRM": "00215248",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHUE-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "6D649R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.139.200",
+        "MAC Address": "8C:EC:4B:89:99:AE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro M203d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CR2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:47:45",
+      "updatedAt": "2026-07-02T07:47:45"
     }
   ]
 }
