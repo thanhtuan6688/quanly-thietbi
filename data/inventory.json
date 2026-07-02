@@ -14947,6 +14947,43 @@
       "attachments": [],
       "createdAt": "2026-07-02T07:19:45",
       "updatedAt": "2026-07-02T07:19:45"
+    },
+    {
+      "id": "2f62033a004043a988f53f89028130f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8576",
+        "Tên Xã": "THỦ THỪA",
+        "Mã Bưu cục": "853400",
+        "Tên Bưu cục": "THỦ THỪA",
+        "Họ và tên người sử dụng": "TRẦN THỊ THANH TRÚC",
+        "Mã HRM": "00104118",
+        "Bộ phận / Phòng ban": "THỦ QUỸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTA-KTOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z25D",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.151.218",
+        "MAC Address": "E8:80:88:7C:AD:BB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:20:31",
+      "updatedAt": "2026-07-02T07:20:31"
     }
   ]
 }
