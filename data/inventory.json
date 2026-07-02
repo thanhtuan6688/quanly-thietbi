@@ -15918,6 +15918,43 @@
       ],
       "createdAt": "2026-07-02T08:15:02",
       "updatedAt": "2026-07-02T08:15:02"
+    },
+    {
+      "id": "2c14543b91dc43ef9dae17244d44f2c8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8505",
+        "Tên Xã": "ĐÔNG THÀNH",
+        "Mã Bưu cục": "8542",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ ĐÔNG THÀNH",
+        "Họ và tên người sử dụng": "PHAN THỊ BÍCH NHIÊN",
+        "Mã HRM": "00044559",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHU-NHIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBY2TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.139.199",
+        "MAC Address": "B8:85:84:A8:E5:B0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet 400 M401 PCL 6",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T08:18:20",
+      "updatedAt": "2026-07-02T08:18:20"
     }
   ]
 }
