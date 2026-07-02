@@ -15620,6 +15620,53 @@
       ],
       "createdAt": "2026-07-02T07:51:46",
       "updatedAt": "2026-07-02T07:51:46"
+    },
+    {
+      "id": "4e12b218589d46a1a321c337162acafa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854200",
+        "Tên Bưu cục": "DUC HUE",
+        "Họ và tên người sử dụng": "NGUYỄN NGỌC HÀ",
+        "Mã HRM": "00044566",
+        "Bộ phận / Phòng ban": "GIAO DICH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-RPNJB81",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1HF",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.81.139.52",
+        "MAC Address": "E8:80:88:A4:2A:D2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:52:41",
+      "updatedAt": "2026-07-02T07:52:41"
     }
   ]
 }
