@@ -16397,6 +16397,48 @@
       ],
       "createdAt": "2026-07-02T12:43:11",
       "updatedAt": "2026-07-02T12:43:11"
+    },
+    {
+      "id": "8fd104b2d9654e94a9057708a9fae302",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851170",
+        "Tên Bưu cục": "Bưu Cục Vận Hành Tân An",
+        "Họ và tên người sử dụng": "Huỳnh Đỗ Thị Khánh Linh",
+        "Mã HRM": "00246819",
+        "Bộ phận / Phòng ban": "văn phòng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-78OS25E",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "HNYBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.34.73",
+        "MAC Address": "F8:BC:12:A3:26:71"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honey well",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T12:48:21",
+      "updatedAt": "2026-07-02T12:48:21"
     }
   ]
 }
