@@ -15766,6 +15766,48 @@
       "attachments": [],
       "createdAt": "2026-07-02T08:02:35",
       "updatedAt": "2026-07-02T08:02:35"
+    },
+    {
+      "id": "8dc8c9dc3a5747a9a8dcac430bf154e4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854880",
+        "Tên Bưu cục": "BĐ VHX Tân Lập",
+        "Họ và tên người sử dụng": "Đặng Thị Thúy Liểu",
+        "Mã HRM": "00044707",
+        "Bộ phận / Phòng ban": "Nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-MH-TL",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop TP01-1xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE0241KXB",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.165",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "BIXOLON",
+          "serial": "TANABTKA22050025"
+        }
+      ],
+      "createdAt": "2026-07-02T08:10:21",
+      "updatedAt": "2026-07-02T08:10:21"
     }
   ]
 }
