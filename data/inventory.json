@@ -15194,6 +15194,48 @@
       ],
       "createdAt": "2026-07-02T07:30:31",
       "updatedAt": "2026-07-02T07:30:31"
+    },
+    {
+      "id": "aa4b1bb1ac2c403baf20307ba0e7c4cf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8576",
+        "Tên Xã": "THỦ THỪA",
+        "Mã Bưu cục": "853400",
+        "Tên Bưu cục": "THỦ THỪA",
+        "Họ và tên người sử dụng": "PHÙNG MINH HẬU",
+        "Mã HRM": "000444770",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTHUA20",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCRM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.151.20",
+        "MAC Address": "B8:85:84:B1:47:F0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:30:48",
+      "updatedAt": "2026-07-02T07:30:48"
     }
   ]
 }
