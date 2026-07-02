@@ -15280,35 +15280,35 @@
       "updatedAt": "2026-07-02T07:32:47"
     },
     {
-      "id": "f8cd1fda677b46af8f19655617106b26",
+      "id": "559299785e5943a4b7c926349b2cca09",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "855620",
-        "Tên Bưu cục": "BCVH Kiến Tường",
-        "Họ và tên người sử dụng": "Võ Thị Bạch Tuyết",
-        "Mã HRM": "00102091",
-        "Bộ phận / Phòng ban": "Bưu cục vận hành Kiến Tường",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LAN-KTUONG-KHAN",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "2DYBH32",
-        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "223 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.81.172.83",
-        "MAC Address": "F8:BC:12:A5:7D:5E"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-07-02T07:40:06",
-      "updatedAt": "2026-07-02T07:40:06"
+      "createdAt": "2026-07-02T07:40:09",
+      "updatedAt": "2026-07-02T07:40:09"
     }
   ]
 }
