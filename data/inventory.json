@@ -15383,6 +15383,43 @@
       ],
       "createdAt": "2026-07-02T07:42:25",
       "updatedAt": "2026-07-02T07:42:25"
+    },
+    {
+      "id": "4b6b731febf54342a03216ff805ec556",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851606",
+        "Tên Bưu cục": "VĂN HÓA XÃ BÌNH TÂM",
+        "Họ và tên người sử dụng": "TRẦN THỊ NGỌC TUYỀN",
+        "Mã HRM": "00044040",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-VHX-BT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "69GG8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.132.172",
+        "MAC Address": "18:66:DA:29:38:B6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:42:50",
+      "updatedAt": "2026-07-02T07:42:50"
     }
   ]
 }
