@@ -14854,6 +14854,37 @@
       ],
       "createdAt": "2026-07-02T07:14:51",
       "updatedAt": "2026-07-02T07:14:51"
+    },
+    {
+      "id": "b6418980022448068c6131443aba2e6b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "854935",
+        "Tên Xã": "Bình Hòa",
+        "Mã Bưu cục": "854935",
+        "Tên Bưu cục": "Bình Hòa Trung",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Cương",
+        "Mã HRM": "00100112",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAPTOP-03NT1K4L",
+        "Loại máy": "Laptop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "VivoBook_ASUSLaptop X515EA_X515EA",
+        "Năm sản xuất": "",
+        "Serial Number": "M7N0CV06U268274",
+        "CPU": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.86",
+        "MAC Address": "14:85:7F:DA:67:E5"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-02T07:16:39",
+      "updatedAt": "2026-07-02T07:16:39"
     }
   ]
 }
