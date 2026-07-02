@@ -15236,6 +15236,48 @@
       ],
       "createdAt": "2026-07-02T07:30:48",
       "updatedAt": "2026-07-02T07:30:48"
+    },
+    {
+      "id": "0ac2dd531ed744ec8279f88adb800056",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851571",
+        "Tên Bưu cục": "VĂN HÓA XÃ KHÁNH HẬU 2",
+        "Họ và tên người sử dụng": "HỒ THỊ CHÂU PHA",
+        "Mã HRM": "00277002",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-VHXKHAU",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z294",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "08:9D:F4:58:F6:F6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:32:47",
+      "updatedAt": "2026-07-02T07:32:47"
     }
   ]
 }
