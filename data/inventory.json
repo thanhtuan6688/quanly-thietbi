@@ -16145,6 +16145,37 @@
       ],
       "createdAt": "2026-07-02T09:59:20",
       "updatedAt": "2026-07-02T09:59:20"
+    },
+    {
+      "id": "e9bf74604bde4943bc097ad783640ac8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851170",
+        "Tên Bưu cục": "BCVHTA",
+        "Họ và tên người sử dụng": "NGUYỄN VĂN ĐẠT",
+        "Mã HRM": "00044830",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-BCP-110",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "HTHQ0D3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "491 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.110",
+        "MAC Address": "70:B5:E8:5A:C8:38"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-02T10:03:22",
+      "updatedAt": "2026-07-02T10:03:22"
     }
   ]
 }
