@@ -16355,6 +16355,48 @@
       ],
       "createdAt": "2026-07-02T12:41:11",
       "updatedAt": "2026-07-02T12:41:11"
+    },
+    {
+      "id": "dd6446ae355a47bb99ec8838b08c5c42",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851170",
+        "Tên Bưu cục": "BCVH TÂN AN",
+        "Họ và tên người sử dụng": "Đoàn Lê Minh Chánh",
+        "Mã HRM": "00272640",
+        "Bộ phận / Phòng ban": "Khối Văn phòng / Trung tâm Vận hành / BCVH Tân An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-KHL-74",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "83MB0J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.74",
+        "MAC Address": "48:4D:7E:B9:D5:69"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZDesigner ZD620-203dpi ZPL",
+          "serial": "d3j183400319"
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T12:43:11",
+      "updatedAt": "2026-07-02T12:43:11"
     }
   ]
 }
