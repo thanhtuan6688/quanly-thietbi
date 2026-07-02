@@ -16103,6 +16103,48 @@
       ],
       "createdAt": "2026-07-02T09:07:47",
       "updatedAt": "2026-07-02T09:07:47"
+    },
+    {
+      "id": "a2f92e58b2bb48f88fcb1f6a12fa7319",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854200",
+        "Tên Bưu cục": "ĐỨC HUỆ",
+        "Họ và tên người sử dụng": "VÕ LÊ TUYẾT NHI",
+        "Mã HRM": "00276323",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-DHU-NHUNGTT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0NV",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.139.151",
+        "MAC Address": "E8:80:88:B4:29:8C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T09:59:20",
+      "updatedAt": "2026-07-02T09:59:20"
     }
   ]
 }
