@@ -16281,6 +16281,43 @@
       ],
       "createdAt": "2026-07-02T11:33:08",
       "updatedAt": "2026-07-02T11:33:08"
+    },
+    {
+      "id": "4b1973f5a321456c86756bc1e3b89d5e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855220",
+        "Tên Bưu cục": "BCVH VĨNH HƯNG",
+        "Họ và tên người sử dụng": "LÊ THỊ HỒNG XUÂN",
+        "Mã HRM": "00044800",
+        "Bộ phận / Phòng ban": "XỬ LÝ NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PC55",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "4HXR7N2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "930 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Avast Antivirus",
+        "IP Address": "10.81.152.55",
+        "MAC Address": "8C:EC:4B:53:08:5E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T11:34:23",
+      "updatedAt": "2026-07-02T11:34:23"
     }
   ]
 }
