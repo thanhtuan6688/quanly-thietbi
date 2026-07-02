@@ -16476,6 +16476,43 @@
       ],
       "createdAt": "2026-07-02T12:56:33",
       "updatedAt": "2026-07-02T12:56:33"
+    },
+    {
+      "id": "25b6e3f2ead74889a8a7e0b5fbefa152",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "851170",
+        "Tên Bưu cục": "BCVH TÂN AN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ MINH THƯ",
+        "Mã HRM": "00044846",
+        "Bộ phận / Phòng ban": "Tổng công ty / Đơn vị hạch toán phụ thuộc / BĐT Tây Ninh / Khối Văn phòng / Trung tâm Vận hành / BCVH Tân An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TAN-KHL-60",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3669",
+        "Năm sản xuất": "",
+        "Serial Number": "BFNF2K2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.34.60",
+        "MAC Address": "50:9A:4C:04:F1:C8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": "C5F92A"
+        }
+      ],
+      "createdAt": "2026-07-02T12:57:22",
+      "updatedAt": "2026-07-02T12:57:22"
     }
   ]
 }
