@@ -15110,6 +15110,53 @@
       ],
       "createdAt": "2026-07-02T07:25:25",
       "updatedAt": "2026-07-02T07:25:25"
+    },
+    {
+      "id": "e21b608984914a4db80a533cd4e5d036",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "THỦ THỪA",
+        "Tên Xã": "THỦ THỪA",
+        "Mã Bưu cục": "853400",
+        "Tên Bưu cục": "THỦ THỪA",
+        "Họ và tên người sử dụng": "TRẦN THỊ THANH TRÚC",
+        "Mã HRM": "00104118",
+        "Bộ phận / Phòng ban": "NVKD TẠI ĐPV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTA-GD24",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z0NH",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.96",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T07:26:38",
+      "updatedAt": "2026-07-02T07:26:38"
     }
   ]
 }
