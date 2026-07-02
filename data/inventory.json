@@ -15309,6 +15309,43 @@
       "attachments": [],
       "createdAt": "2026-07-02T07:40:09",
       "updatedAt": "2026-07-02T07:40:09"
+    },
+    {
+      "id": "6c370dfb4eef426fa4ba4b8b0ed7dd81",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855430",
+        "Tên Bưu cục": "BCVH Tân Hưng",
+        "Họ và tên người sử dụng": "Võ Tấn Tứ",
+        "Mã HRM": "00044751",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THUNG-TUBCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "83W30J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.144.63",
+        "MAC Address": "48:4D:7E:B9:D5:36"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "motorola",
+          "serial": "14092S1409200507856"
+        }
+      ],
+      "createdAt": "2026-07-02T07:41:22",
+      "updatedAt": "2026-07-02T07:41:22"
     }
   ]
 }
